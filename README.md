@@ -1,47 +1,73 @@
-## Hi there! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=aryan%20patel&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Developer%20%7C%20Generative%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
-I'm Aryan Patel, a passionate B.Tech CSE student in my 3rd year at IIIT Manipur. I love building intelligent AI/ML solutions and full-stack web applications using the MERN stack. Let's create something amazing together!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Always%20learning%2C%20always%20shipping%20%F0%9F%9A%80;Building%20AI%20that%20solves%20real%20problems;Turning%20ideas%20into%20working%20prototypes%20fast%20%E2%9A%A1" alt="Typing introduction" />
+</p>
 
-## About Me
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=aryan-Patel-web">
+    <img src="https://komarev.com/ghpvc/?username=aryan-Patel-web&label=Profile%20views&color=00FFFF&style=flat-square" alt="aryan-Patel-web's profile views" />
+  </a>
+</p>
 
-I am currently pursuing my B.Tech in Computer Science Engineering at IIIT Manipur. I have a keen interest in Artificial Intelligence and Machine Learning, with a focus on developing full-stack web applications. I am always eager to learn new technologies and improve my skills.
+## 📌 About Me
+- 🌱 I'm currently learning advanced RAG architectures, multi-agent systems, and GenAI workflows.
+- 👯 I'm looking to collaborate on AI/ML products, RAG pipelines, automation tools, and full-stack AI apps.
+- 🤝 I'm looking for help with scalable deployment, model optimization, and cloud-based AI infra.
+- 💬 Ask me about LLMs, RAG, embeddings, vector DBs, LangChain, FastAPI, React, and ML systems.
+- ⚡ Fun fact: I break things fast so I can build them better — every failed experiment becomes a repo 😄.
 
-## Skills & Technologies
 
-react,redux,nodejs,express,mongodb,flask,fastapi,git,docker,html,css,github
+## 🧠 My Focus Areas
+- AI/ML Development
+- Generative AI & LLM Engineering
+- RAG Systems & Vector Databases
+- Full-Stack Web Development
+- Machine Learning Research
+- Open Source Contribution
 
-## Top Projects
 
-- [OCR-Pipeline---Handwritten-Document-PII-Extraction](https://github.com/aryan-Patel-web/OCR-Pipeline---Handwritten-Document-PII-Extraction): AI/ML Internship Assignment for Securelytix. A complete end-to-end pipeline for extracting text and detecting Personal Identifiable Information (PII) from handwritten documents using OCR technology. ⭐ Stars: 0 | 🐍 Language: Python
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aryan-Patel-web&theme=vue&hide_border=true&cache_seconds=86400" alt="aryan-Patel-web's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-Patel-web&theme=vue&radius=10" alt="aryan-Patel-web's Activity Graph" />
+</p>
 
-- [Bajaj-Hackrx-Pdf-RAG-Engine](https://github.com/aryan-Patel-web/Bajaj-Hackrx-Pdf-RAG-Engine): Production-ready FastAPI + Argo pipeline for PDF/.nc → JSON → FAISS RAG. Multi-level evaluation (Level-1 → Level-4), Malayalam-aware OCR, Mistral (primary) + Groq fallback, Streamlit UI for low-latency queries. ⭐ Stars: 0 | 🐍 Language: Python
 
-- [Amazon-ML-Challenge](https://github.com/aryan-Patel-web/Amazon-ML-Challenge): Smart Product Pricing builds a full end-to-end ML pipeline using product metadata and images to predict prices accurately. ⭐ Stars: 0 | 🐍 Language: Python
+## 🛠️ Languages & Tools
 
-- [PitchGroww-AI_Startup_Pitch_Analyzer_Enhancer](https://github.com/aryan-Patel-web/PitchGroww-AI_Startup_Pitch_Analyzer_Enhancer): PitchPal-AI is an AI-powered tool that analyzes and enhances startup pitch decks using CrewAI agents and stylish PDF generation. ⭐ Stars: 1 | 🐍 Language: Python
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
 
-- [Velocity-AI-Funds-PDF-to-Excel-Sheet](https://github.com/aryan-Patel-web/Velocity-AI-Funds-PDF-to-Excel-Sheet): A production-ready web application that extracts structured financial data from Private Equity Fund quarterly reports (PDF format) using LLMs and outputs the data into professionally formatted Excel files. ⭐ Stars: 1 | 🐍 Language: Python
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
 
-## GitHub Stats
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="48" height="48" style="margin: 4px;" /></p>
 
-🌟 Public Repositories: 84
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
 
-👥 Followers: 1
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /></p>
 
-👤 Following: 1
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan-Patel-web&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-Patel-web&layout=compact&theme=vue&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
 
-## Recent Activity
+## 🔗 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/aryan-patel-97396524b" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="aryan patel's LinkedIn"/></a> <a href="mailto:aryanpatel77462@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="aryan patel's Email"/></a> <a href="https://www.linkedin.com/in/aryan-patel-97396524b" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a> <a href="https://wa.me/9109140782212" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
 
-- Created the repository [Github__Profile](https://github.com/aryan-Patel-web/Github__Profile) on 2025-12-11.
-- Pushed updates to [OCR-Pipeline---Handwritten-Document-PII-Extraction](https://github.com/aryan-Patel-web/OCR-Pipeline---Handwritten-Document-PII-Extraction) on 2025-12-10.
-- Updated [Bajaj-Hackrx-Pdf-RAG-Engine](https://github.com/aryan-Patel-web/Bajaj-Hackrx-Pdf-RAG-Engine) on 2025-12-04.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
-## Latest Blog Posts
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-No blog posts available at the moment.
-
-## Connect with Me
-
-{}
