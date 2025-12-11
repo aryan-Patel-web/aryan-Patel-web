@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **aryanpatel77462@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12Whm0GUYrviJqnd-HBTsHRY-B8f2WbjF/view?usp=drivesdk](https://drive.google.com/file/d/12Whm0GUYrviJqnd-HBTsHRY-B8f2WbjF/view?usp=drivesdk)
+- 📄 Know about my experiences- RESUME - [https://drive.google.com/file/d/12Whm0GUYrviJqnd-HBTsHRY-B8f2WbjF/view?usp=drivesdk](https://drive.google.com/file/d/12Whm0GUYrviJqnd-HBTsHRY-B8f2WbjF/view?usp=drivesdk)
 
 - ⚡ Fun fact **I break things fast so I can build them better — every failed experiment becomes a repo 😉**
 
