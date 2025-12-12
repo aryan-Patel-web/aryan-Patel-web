@@ -110,56 +110,11 @@
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 
-=========================================================
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aryan%20patel&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Developer%20%7C%20Generative%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Always%20learning%2C%20always%20shipping%20%F0%9F%9A%80;Building%20AI%20that%20solves%20real%20problems;Turning%20ideas%20into%20working%20prototypes%20fast%20%E2%9A%A1" alt="Typing introduction" />
-</p>
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=aryan-Patel-web">
-    <img src="https://komarev.com/ghpvc/?username=aryan-Patel-web&label=Profile%20views&color=00FFFF&style=flat-square" alt="aryan-Patel-web's profile views" />
-  </a>
-</p>
-<h1 align="center">Hi 👋, I'm Aryan patel</h1>
-<h3 align="center">A passionate AI/ML & Full-Stack Developer from India 🚀</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-patel-web&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-patel-web" /> </p>
-
-🔭 I'm currently working on PitchGroww-AI_Startup_Pitch_Analyzer_Enhancer Public
-🌱 I'm currently learning Advanced RAG architectures Multi-Agent AI systems Model optimization & deployment (Docker, AWS)
-👯 I'm looking to collaborate on Floatchat_AI
-🤝 I'm looking for help with Velocity_AI
-👨‍💻 All of my projects are available at https://professional-certificati-t3sz2p5.gamma.site/
-💬 Ask me about - AI/ML • Generative AI • RAG • LLMs • LangChain  FastAPI • Flask • React • Vector Databases , Machine Learning , NLP , Deep Learning , MERN Stack  **
-📫 How to reach me aryanpatel77462@gmail.com
-📄 Know about my experiences- RESUME - https://drive.google.com/file/d/12Whm0GUYrviJqnd-HBTsHRY-B8f2WbjF/view?usp=drivesdk
-⚡ Fun fact I break things fast so I can build them better — every failed experiment becomes a repo 😉
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/aryan-patel-97396524b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aryan-patel-97396524b" height="30" width="40" /></a>
-</p>
-
-📌 About Me
-
-🌱 I'm currently learning advanced RAG architectures, multi-agent systems, and GenAI workflows.
-👯 I'm looking to collaborate on AI/ML products, RAG pipelines, automation tools, and full-stack AI apps.
-🤝 I'm looking for help with scalable deployment, model optimization, and cloud-based AI infra.
-💬 Ask me about LLMs, RAG, embeddings, vector DBs, LangChain, FastAPI, React, and ML systems.
-⚡ Fun fact: I break things fast so I can build them better — every failed experiment becomes a repo 😄.
-
-
-🧠 My Focus Areas
-
-AI/ML Development
-Generative AI & LLM Engineering
-RAG Systems & Vector Databases
-Full-Stack Web Development
-Machine Learning Research
-Open Source Contribution
-
 
 🚀 Featured Projects
+
 🤖 Generative AI Projects
+
 <table>
 <tr>
 <td width="50%">
@@ -198,7 +153,10 @@ Open Source Contribution
 </td>
 </tr>
 </table>
+
+  
 🧠 Machine Learning / Deep Learning / NLP Projects
+
 <table>
 <tr>
 <td width="50%">
@@ -237,7 +195,9 @@ Open Source Contribution
 </td>
 </tr>
 </table>
+
 💻 Full-Stack Development Projects
+
 <table>
 <tr>
 <td width="50%">
@@ -278,6 +238,7 @@ Open Source Contribution
 </table>
 
 🏆 Certifications
+
 <div align="center">
 🎓 Certificate Name🏢 Issuing Organization📜 Certificate No.🔗 CredentialComplete Generative AI Course With LangChain and HuggingFaceUdemyUC-1c29da31-bec9-4bb6-9b42-9a8fa2275edbView CertificateComplete Data Science, Machine Learning, DL, NLP BootcampUdemyUC-444c073c-100e-4638-afd5-27743417fddaView CertificateData Analysis with PythonIBM Developer Skills Network (CognitiveClass)IBM-DA-PYTHON-2024View Certificate
 </div>
