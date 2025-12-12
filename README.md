@@ -108,3 +108,294 @@
 </picture>
 
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+
+=========================================================
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aryan%20patel&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Developer%20%7C%20Generative%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Always%20learning%2C%20always%20shipping%20%F0%9F%9A%80;Building%20AI%20that%20solves%20real%20problems;Turning%20ideas%20into%20working%20prototypes%20fast%20%E2%9A%A1" alt="Typing introduction" />
+</p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=aryan-Patel-web">
+    <img src="https://komarev.com/ghpvc/?username=aryan-Patel-web&label=Profile%20views&color=00FFFF&style=flat-square" alt="aryan-Patel-web's profile views" />
+  </a>
+</p>
+<h1 align="center">Hi 👋, I'm Aryan patel</h1>
+<h3 align="center">A passionate AI/ML & Full-Stack Developer from India 🚀</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-patel-web&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-patel-web" /> </p>
+
+🔭 I'm currently working on PitchGroww-AI_Startup_Pitch_Analyzer_Enhancer Public
+🌱 I'm currently learning Advanced RAG architectures Multi-Agent AI systems Model optimization & deployment (Docker, AWS)
+👯 I'm looking to collaborate on Floatchat_AI
+🤝 I'm looking for help with Velocity_AI
+👨‍💻 All of my projects are available at https://professional-certificati-t3sz2p5.gamma.site/
+💬 Ask me about - AI/ML • Generative AI • RAG • LLMs • LangChain  FastAPI • Flask • React • Vector Databases , Machine Learning , NLP , Deep Learning , MERN Stack  **
+📫 How to reach me aryanpatel77462@gmail.com
+📄 Know about my experiences- RESUME - https://drive.google.com/file/d/12Whm0GUYrviJqnd-HBTsHRY-B8f2WbjF/view?usp=drivesdk
+⚡ Fun fact I break things fast so I can build them better — every failed experiment becomes a repo 😉
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/aryan-patel-97396524b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aryan-patel-97396524b" height="30" width="40" /></a>
+</p>
+
+📌 About Me
+
+🌱 I'm currently learning advanced RAG architectures, multi-agent systems, and GenAI workflows.
+👯 I'm looking to collaborate on AI/ML products, RAG pipelines, automation tools, and full-stack AI apps.
+🤝 I'm looking for help with scalable deployment, model optimization, and cloud-based AI infra.
+💬 Ask me about LLMs, RAG, embeddings, vector DBs, LangChain, FastAPI, React, and ML systems.
+⚡ Fun fact: I break things fast so I can build them better — every failed experiment becomes a repo 😄.
+
+
+🧠 My Focus Areas
+
+AI/ML Development
+Generative AI & LLM Engineering
+RAG Systems & Vector Databases
+Full-Stack Web Development
+Machine Learning Research
+Open Source Contribution
+
+
+🚀 Featured Projects
+🤖 Generative AI Projects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">FloatChat AI - Ocean Intelligence Assistant</h3>
+<div align="center">
+<a href="https://github.com/aryan-Patel-web/FloatChat_AI" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
+</a>
+<p><strong>Technologies:</strong> Streamlit • LangChain • ChromaDB • Mistral + Groq • PyMuPDF • Tesseract OCR • Plotly • Folium</p>
+<p>RAG-based multimodal chatbot over ARGO datasets with 90% answer parity to ChatGPT. Features hallucination reduction via retrieval verification, cross-check agents, and fallback LLM strategy with latency-optimized inference (typ. <2s).</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">PitchGroww-AI - Startup Pitch Analyzer</h3>
+<div align="center">
+<a href="https://github.com/aryan-Patel-web/PitchGroww-AI_Startup_Pitch_Analyzer_Enhancer" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
+</a>
+<p><strong>Technologies:</strong> Streamlit • CrewAI • LangChain • Groq • PyMuPDF • FPDF • Twilio WhatsApp API • Cloudinary</p>
+<p>Multi-agent pipeline (analyzer, domain advisor, stylist) that rewrites and styles pitch decks. Auto-generates investor-ready PDFs and delivers via Email/WhatsApp with agentic automation and hallucination reduction.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Velocity-AI Funds - PDF to Excel Automation</h3>
+<div align="center">
+<a href="https://github.com/aryan-Patel-web/Velocity-AI-Funds-PDF-to-Excel-Sheet" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
+</a>
+<p><strong>Technologies:</strong> LLM + OCR • PyMuPDF • Pandas • Schema Validation</p>
+<p>LLM + OCR extraction engine with 94% structured field accuracy and <15 sec end-to-end conversion time. Hallucination-reduction via schema validation + multi-pass extraction.</p>
+</div>
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
+🧠 Machine Learning / Deep Learning / NLP Projects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Amazon ML Challenge - Smart Product Pricing</h3>
+<div align="center">
+<a href="https://github.com/aryan-Patel-web" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
+</a>
+<p><strong>Technologies:</strong> Python • Pandas • TF-IDF • TruncatedSVD • Pillow • LightGBM • XGBoost • CatBoost • ThreadPoolExecutor</p>
+<p>Multimodal pipeline (text + image features) with parallel downloader fetching 120k images in 1 hour. Engineered TF-IDF + image features; trained ensemble achieving CV SMAPE 52% (5-fold). Focus on robust feature engineering and reproducible training/inference pipeline.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Kindle Review Sentiment Analysis</h3>
+<div align="center">
+<a href="https://github.com/aryan-Patel-web" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
+</a>
+<p><strong>Technologies:</strong> Python • Gensim Word2Vec • Random Forest • Flask • NLTK • Lemmatization</p>
+<p>End-to-end sentiment pipeline using Word2Vec embeddings + RandomForest; deployed as Flask app. Complete preprocessing: tokenization, stopword removal, lemmatization, feature averaging with reliable prediction and lightweight web UI.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">LSTM Stock Price Predictor</h3>
+<div align="center">
+<a href="https://github.com/aryan-Patel-web" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
+</a>
+<p><strong>Technologies:</strong> Python • TensorFlow • Keras • MinMaxScaler • Flask • Chart.js</p>
+<p>Trained LSTM to predict next-day close (sequence window=60); saved model and scaler for deployment. Live Flask dashboard with Chart.js for visualizing actual vs predicted with reproducible training and inference pipeline.</p>
+</div>
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
+💻 Full-Stack Development Projects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Airbnb Full-Stack Clone</h3>
+<div align="center">
+<a href="https://github.com/aryan-Patel-web" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
+</a>
+<p><strong>Technologies:</strong> React • Node.js • Express • MongoDB • Cloudinary • JWT • Maps API • Tailwind</p>
+<p>Full-featured platform with property listing, booking, wishlist, and map-based search. Implemented secure auth, host dashboards, fully responsive UI, Cloudinary image pipeline, and optimized DB queries.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Ola/Uber Ride-Hailing Platform</h3>
+<div align="center">
+<a href="https://github.com/aryan-Patel-web" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
+</a>
+<p><strong>Technologies:</strong> React • Vite • Tailwind • Node.js • Express • MongoDB • Socket.IO • JWT</p>
+<p>Real-time rider–driver matching, fare calculation, and ride tracking. Modular backend with services, controllers, middleware, JWT auth, and production-ready deployment with connection pooling.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Mixpanel Enterprise UI Clone</h3>
+<div align="center">
+<a href="https://github.com/aryan-Patel-web" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
+</a>
+<p><strong>Technologies:</strong> React • TypeScript • Vite • Tailwind • Framer Motion</p>
+<p>Pixel-perfect recreation of enterprise UI with rich micro-interactions. Smooth 60fps animations, scroll effects, parallax, transitions, and highly optimized component architecture with exceptional bundle performance.</p>
+</div>
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
+
+🏆 Certifications
+<div align="center">
+🎓 Certificate Name🏢 Issuing Organization📜 Certificate No.🔗 CredentialComplete Generative AI Course With LangChain and HuggingFaceUdemyUC-1c29da31-bec9-4bb6-9b42-9a8fa2275edbView CertificateComplete Data Science, Machine Learning, DL, NLP BootcampUdemyUC-444c073c-100e-4638-afd5-27743417fddaView CertificateData Analysis with PythonIBM Developer Skills Network (CognitiveClass)IBM-DA-PYTHON-2024View Certificate
+</div>
+
+🛠️ Skills & Technologies
+<details open>
+<summary><b>🤖 AI/ML & Generative AI</b></summary>
+<br>
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+</details>
+<details open>
+<summary><b>💻 Full-Stack Development</b></summary>
+<br>
+Frontend:
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Backend:
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Database:
+Show Image
+Show Image
+Show Image
+</details>
+<details open>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br>
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+</details>
+<details open>
+<summary><b>📊 Data Science & Analysis</b></summary>
+<br>
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+</details>
+
+📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-Patel-web&theme=vue&hide_border=true&fire=00FFFF&ring=00FFFF&currStreakLabel=00FFFF&cache_seconds=1" alt="GitHub Streak Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-Patel-web&show_icons=true&theme=vue&hide_border=true&icon_color=00FFFF&title_color=00FFFF&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-Patel-web&layout=compact&theme=vue&hide_border=true&langs_count=10&title_color=00FFFF&cache_seconds=1800" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-Patel-web&theme=vue&hide_border=true&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&cache_seconds=300" alt="Contribution Graph" width="49%" />
+</p>
+🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryan-Patel-web&theme=vue&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+📈 Contribution Heat Map
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-Patel-web&theme=vue&radius=10&hide_border=true&custom_title=Contribution%20Activity&area=true&color=00FFFF&line=00FFFF&point=FFFFFF&cache_seconds=300" alt="aryan-Patel-web's Activity Graph" />
+</p>
+
+🐍 Contribution Snake Animation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+📫 Get in Touch
+<p align="center">
+<a href="https://www.linkedin.com/in/aryan-patel-97396524b" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="LinkedIn"/>
+</a>
+<a href="mailto:aryanpatel77462@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Gmail"/>
+</a>
+<a href="https://professional-certificati-t3sz2p5.gamma.site/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-46BC99?style=for-the-badge&logo=About.me&logoColor=white&color=00FFFF" alt="Portfolio"/>
+</a>
+<a href="https://wa.me/9109140782212" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=00FFFF" alt="WhatsApp"/>
+</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collaboration+and+opportunities!+%E2%9C%A8" alt="Footer" />
+</p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/aryanpatel" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+  </a>
+</p>
