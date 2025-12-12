@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at [https://professional-certificati-t3sz2p5.gamma.site/](https://professional-certificati-t3sz2p5.gamma.site/)
 
-- 💬 Ask me about **AI/ML • Generative AI • RAG • LLMs • LangChain FastAPI • Flask • React • Vector Databases , Machine Learning ,Deep Learning **
+- 💬 Ask me about - AI/ML • Generative AI • RAG • LLMs • LangChain  FastAPI • Flask • React • Vector Databases , Machine Learning , NLP , Deep Learning , MERN Stack  **
 
 - 📫 How to reach me **aryanpatel77462@gmail.com**
 
