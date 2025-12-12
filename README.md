@@ -111,14 +111,14 @@
 
 
 
-🚀 Featured Projects
+# 🚀 Featured Projects
 
-🤖 Generative AI Projects
+## 🤖 Generative AI Projects
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">FloatChat AI - Ocean Intelligence Assistant</h3>
+<h3 align="center">🌊 FloatChat AI - Ocean Intelligence Assistant</h3>
 <div align="center">
 <a href="https://github.com/aryan-Patel-web/FloatChat_AI" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
@@ -128,7 +128,7 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center">PitchGroww-AI - Startup Pitch Analyzer</h3>
+<h3 align="center">🚀 PitchGroww-AI - Startup Pitch Analyzer</h3>
 <div align="center">
 <a href="https://github.com/aryan-Patel-web/PitchGroww-AI_Startup_Pitch_Analyzer_Enhancer" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
@@ -140,7 +140,7 @@
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">Velocity-AI Funds - PDF to Excel Automation</h3>
+<h3 align="center">⚡ Velocity-AI Funds - PDF to Excel Automation</h3>
 <div align="center">
 <a href="https://github.com/aryan-Patel-web/Velocity-AI-Funds-PDF-to-Excel-Sheet" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
@@ -150,17 +150,25 @@
 </div>
 </td>
 <td width="50%">
+<h3 align="center">🔬 Auto-Research + Email Automation Agent</h3>
+<div align="center">
+<a href="https://github.com/aryan-Patel-web" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
+</a>
+<p><strong>Technologies:</strong> LangGraph • RAG • LLM Chains • Email API • Multi-Step Agents</p>
+<p>Autonomous LangGraph research agent with multi-step nodes (search → summarize → verify → email). RAG-based grounding reduces hallucinations by 28% using verification loops. Supports multi-recipient batch delivery with fallback summarization mode.</p>
+</div>
 </td>
 </tr>
 </table>
 
   
-🧠 Machine Learning / Deep Learning / NLP Projects
+## 🧠 Machine Learning / Deep Learning / NLP Projects
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Amazon ML Challenge - Smart Product Pricing</h3>
+<h3 align="center">🛍️ Amazon ML Challenge - Smart Product Pricing</h3>
 <div align="center">
 <a href="https://github.com/aryan-Patel-web" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
@@ -170,7 +178,7 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center">Kindle Review Sentiment Analysis</h3>
+<h3 align="center">📚 Kindle Review Sentiment Analysis</h3>
 <div align="center">
 <a href="https://github.com/aryan-Patel-web" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
@@ -182,7 +190,7 @@
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">LSTM Stock Price Predictor</h3>
+<h3 align="center">📈 LSTM Stock Price Predictor</h3>
 <div align="center">
 <a href="https://github.com/aryan-Patel-web" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
@@ -192,16 +200,24 @@
 </div>
 </td>
 <td width="50%">
+<h3 align="center">💰 Customer Salary Prediction Using ANN</h3>
+<div align="center">
+<a href="https://github.com/aryan-Patel-web/Customer-Salary-Prediction-Using_ANN_DL_Project" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
+</a>
+<p><strong>Technologies:</strong> Python • TensorFlow • Keras • Streamlit • Scikit-learn • Pandas • NumPy</p>
+<p>End-to-end ANN regression model for predicting customer estimated salary. Features data preprocessing (encoding, scaling), model training with TensorFlow/Keras, and interactive Streamlit web app for real-time salary prediction with reproducible workflow.</p>
+</div>
 </td>
 </tr>
 </table>
 
-💻 Full-Stack Development Projects
+## 💻 Full-Stack Development Projects
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Airbnb Full-Stack Clone</h3>
+<h3 align="center">🏠 Airbnb Full-Stack Clone</h3>
 <div align="center">
 <a href="https://github.com/aryan-Patel-web" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
@@ -211,7 +227,7 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center">Ola/Uber Ride-Hailing Platform</h3>
+<h3 align="center">🚗 Ola/Uber Ride-Hailing Platform</h3>
 <div align="center">
 <a href="https://github.com/aryan-Patel-web" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
@@ -223,7 +239,7 @@
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">Mixpanel Enterprise UI Clone</h3>
+<h3 align="center">📊 Mixpanel Enterprise UI Clone</h3>
 <div align="center">
 <a href="https://github.com/aryan-Patel-web" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
@@ -233,13 +249,41 @@
 </div>
 </td>
 <td width="50%">
+<h3 align="center">💎 Google Gemini UI Clone</h3>
+<div align="center">
+<a href="https://github.com/aryan-Patel-web" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Repository-00FFFF?style=for-the-badge&logo=github" alt="View Repository"/>
+</a>
+<p><strong>Technologies:</strong> React • Vite • Tailwind • Context API • Gemini API</p>
+<p>Built chat-like multimodal layout with history panel and animated components. Architecture ready for plugging LLM inference or RAG APIs. Features responsive design with smooth transitions and modern UI patterns.</p>
+</div>
 </td>
 </tr>
 </table>
 
-🏆 Certifications
+---
+
+# 🏆 Certifications
 
 <div align="center">
-🎓 Certificate Name🏢 Issuing Organization📜 Certificate No.🔗 CredentialComplete Generative AI Course With LangChain and HuggingFaceUdemyUC-1c29da31-bec9-4bb6-9b42-9a8fa2275edbView CertificateComplete Data Science, Machine Learning, DL, NLP BootcampUdemyUC-444c073c-100e-4638-afd5-27743417fddaView CertificateData Analysis with PythonIBM Developer Skills Network (CognitiveClass)IBM-DA-PYTHON-2024View Certificate
-</div>
 
+### 📜 Complete Generative AI Course With LangChain and HuggingFace
+**Certificate No.:** UC-1c29da31-bec9-4bb6-9b42-9a8fa2275edb  
+**Issuing Organization:** Udemy  
+🔗 [View Certificate](https://www.udemy.com/certificate/UC-1c29da31-bec9-4bb6-9b42-9a8fa2275edb)
+
+---
+
+### 📜 Complete Data Science, Machine Learning, DL, NLP Bootcamp
+**Certificate No.:** UC-444c073c-100e-4638-afd5-27743417fdda  
+**Issuing Organization:** Udemy  
+🔗 [View Certificate](https://www.udemy.com/certificate/UC-444c073c-100e-4638-afd5-27743417fdda)
+
+---
+
+### 📜 Data Analysis with Python
+**Certificate No.:** IBM-DA-PYTHON-2024  
+**Issuing Organization:** IBM Developer Skills Network (CognitiveClass)  
+🔗 [View Certificate](https://courses.cognitiveclass.ai/certificates/IBM-DA-PYTHON-2024)
+
+</div>
