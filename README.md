@@ -277,7 +277,7 @@
 ### 📜 Complete Data Science, Machine Learning, DL, NLP Bootcamp
 **Certificate No.:** UC-444c073c-100e-4638-afd5-27743417fdda  
 **Issuing Organization:** Udemy  
-🔗 [View Certificate](https://www.udemy.com/certificate/UC-444c073c-100e-4638-afd5-27743417fdda)
+🔗 [View Certificate](https://www.udemy.com/certificate/UC-444c073c-100e-4638-afd5-27743147fdda)
 
 ---
 
