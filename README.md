@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Advanced RAG architectures Multi-Agent AI systems Model optimization & deployment (Docker, AWS)**
 
-- 👯 I’m looking to collaborate on [Floatchat_AI](https://github.com/aryan-Patel-web/FloatChat_AI)
+- 👯 I’m looking to collaborate on [MLOPS-Vehicle-Insurance-End-to-End-Project](https://github.com/aryan-Patel-web/MLOPS-Vehicle-Insurance-MAJOR-PROJECT1)
 
 - 🤝 I’m looking for help with [Velocity_AI](https://github.com/aryan-Patel-web/Velocity-AI-Funds-PDF-to-Excel-Sheet)
 
