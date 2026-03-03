@@ -16,7 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-patel-web&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-patel-web" /> </p>
 
 - 🔭 I’m currently working on Github- [Automation Project ] [velocityfly.com](https://github.com/aryan-Patel-web/Python_Flow)
-- - 🔭  working on URL of  [Automation Project] ([https://velocityfly-ai.onrender.com/)
+- 🔭 working URL of [Automation Project] ([https://velocityfly-ai.onrender.com/)
 
 - 🌱 I’m currently learning **Advanced RAG architectures Multi-Agent AI systems Model optimization & deployment (Docker, AWS)**
 
