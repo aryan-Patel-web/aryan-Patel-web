@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on [MLOPS-Vehicle-Insurance-End-to-End-Project](https://github.com/aryan-Patel-web/MLOPS-Vehicle-Insurance-MAJOR-PROJECT1)
 
-- 🤝 I’m looking for help with [Velocity_AI](https://github.com/aryan-Patel-web/Velocity-AI-Funds-PDF-to-Excel-Sheet)
+- 🤝 I’m looking for help with [Excel_AI](https://github.com/aryan-Patel-web/Velocity-AI-Funds-PDF-to-Excel-Sheet)
 
 - 👨‍💻 All of my projects are available at [https://professional-certificati-t3sz2p5.gamma.site/](https://professional-certificati-t3sz2p5.gamma.site/)
 
