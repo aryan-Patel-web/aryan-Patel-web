@@ -17,7 +17,6 @@
 
 <div align="center">
 
-## `> whoami`
 
 </div>
 
@@ -60,7 +59,6 @@ aryan_patel = {
 
 <div align="center">
 
-## `> ls -la core_expertise/`
 
 </div>
 
@@ -128,9 +126,9 @@ Hallucination Reduction
 
 <div align="center">
 
-## `> cat featured_projects.yaml`
 
-### ⚙️ MLOps & Machine Learning
+
+### ⚙️ Fatured Projects-1 --> MLOps & Machine Learning
 
 </div>
 
@@ -203,6 +201,7 @@ Hallucination Reduction
 </p>
 
 ---
+### ⚙️ Fatured Projects-1 --> MLOps & Machine Learning
 
 ### 🔥 Advanced MLOps Capstone — DVC · MLflow · EKS · Prometheus · Grafana
 
