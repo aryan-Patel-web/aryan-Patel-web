@@ -17,6 +17,7 @@
 
 <div align="center">
 
+## `> whoami`
 
 </div>
 
@@ -59,6 +60,7 @@ aryan_patel = {
 
 <div align="center">
 
+## `> ls -la core_expertise/`
 
 </div>
 
@@ -126,17 +128,29 @@ Hallucination Reduction
 
 <div align="center">
 
+## `> cat featured_projects.yaml`
 
-
-### ⚙️ [Fatured Projects-1 --> MLOps & Machine Learning]
+### ⚙️ MLOps & Machine Learning
 
 </div>
 
 ---
 
-### 🏆 [MLOPS Vehicle Insurance — End-to-End Production Pipeline](https://github.com/aryan-Patel-web/MLOPS-Vehicle-Insurance-MAJOR-PROJECT1)
+<!--  ████████████████████  FEATURED PROJECT #1  ████████████████████ -->
+<div align="center">
 
-<p align="center"><i>Flagship Project #1 · The project that proves end-to-end MLOps is more than a buzzword.</i></p>
+## 🏆 Featured Project #1 — MLOps & Machine Learning
+
+</div>
+
+<div align="center">
+
+> ### 🚗 [MLOPS Vehicle Insurance — End-to-End Production Pipeline](https://github.com/aryan-Patel-web/MLOPS-Vehicle-Insurance-MAJOR-PROJECT1)
+>
+> *The project that proves end-to-end MLOps is more than a buzzword.*
+> *Raw data in MongoDB → 6-stage ML pipeline → S3 model registry → Docker → ECR → EC2 → Live API.*
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -149,14 +163,19 @@ Hallucination Reduction
   <img src="https://img.shields.io/badge/🟢%20LIVE-Deployed-brightgreen?style=flat-square"/>
 </p>
 
+<div align="center">
+
+### 🔴 [👉 CLICK TO OPEN LIVE APP → http://3.237.0.238:5000](http://3.237.0.238:5000)
+
+</div>
+
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  MongoDB Atlas ──► ETL ──► Data Validation ──► Feature Engineering          ║
 ║      ──► Model Training ──► Evaluation Gate (Δ > 0.02 vs S3 model)          ║
 ║      ──► Model Pusher ──► S3 Registry ──► FastAPI ──► Docker                ║
-║      ──► ECR ──► EC2 ──►  🔴 LIVE: http://3.237.0.238:5000                 ║
+║      ──► ECR ──► EC2 ──► 🔴 LIVE: http://3.237.0.238:5000                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
- DEMO URL = [🔴 LIVE: http://3.237.0.238:5000 ]
 ```
 
 <table width="100%">
@@ -168,11 +187,13 @@ Hallucination Reduction
 | Feature | Detail |
 |---------|--------|
 | 📦 6-Stage Modular Pipeline | Typed `ConfigEntity` + `ArtifactEntity` contracts |
+| ☁️ Cloud Data Store | Raw data in **MongoDB Atlas** — fetched fresh every run |
 | 🔒 Model Promotion Gate | Only promotes if new model beats S3 baseline by **>0.02** |
 | 🗄️ S3 Model Registry | Versioned model push to `model-registry/` on every win |
 | 🐳 Containerized | Fully Dockerized, deployed via ECR → EC2 |
 | 🔄 Zero-Touch CI/CD | Git push → Docker → ECR → EC2 → Live, automated |
-| 📋 Reproducible Artifacts | Every run timestamped and isolated |
+| 📋 Reproducible Artifacts | Every run timestamped and isolated under `artifact/<timestamp>/` |
+| 🛠️ Custom Logger & Exception | File + line-level tracebacks across every component |
 
 </td>
 <td width="50%" valign="top">
@@ -181,32 +202,47 @@ Hallucination Reduction
 
 | Layer | Tool |
 |-------|------|
-| Data Store | MongoDB Atlas (cloud NoSQL) |
+| Data Store | MongoDB Atlas (M0 Free Cluster) |
 | Model Storage | AWS S3 (`my-model-mlopsproj`) |
 | Container Registry | AWS ECR (`vehicleproj`) |
-| Compute | AWS EC2 Ubuntu 24.04 T2.Medium |
-| Automation | GitHub Actions self-hosted runner |
-| API | FastAPI with Jinja2 HTML form |
+| Compute | AWS EC2 Ubuntu 24.04 · T2.Medium |
+| Automation | GitHub Actions · Self-hosted EC2 runner |
+| API | FastAPI + Jinja2 HTML form |
+| IAM | Scoped `AdministratorAccess` user — no root credentials |
+| Routes | `/` · `/predict` · `/training` |
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="http://3.237.0.238:5000">
-    <img src="https://img.shields.io/badge/🔴%20Live%20Demo-http://3.237.0.238:5000-red?style=for-the-badge"/>
-  </a>&nbsp;
-  <a href="https://github.com/aryan-Patel-web/MLOPS-Vehicle-Insurance-MAJOR-PROJECT1">
-    <img src="https://img.shields.io/badge/📂%20Repository-View%20Code-181717?style=for-the-badge&logo=github"/>
+  <a href="http://3.237.0.238:5000" target="_blank">
+    <img src="https://img.shields.io/badge/🔴%20OPEN%20LIVE%20APP-http://3.237.0.238:5000-red?style=for-the-badge&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/aryan-Patel-web/MLOPS-Vehicle-Insurance-MAJOR-PROJECT1" target="_blank">
+    <img src="https://img.shields.io/badge/📂%20View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
-### ⚙️🏆 [Fatured Projects-2 --> MLOps & Machine Learning]
 
-### 🔥 Advanced MLOps Capstone — DVC · MLflow · EKS · Prometheus · Grafana
+<!--  ████████████████████  FEATURED PROJECT #2  ████████████████████ -->
+<div align="center">
 
-<p align="center"><i>Flagship Project #2 · The most complete MLOps system in this portfolio. In active development 🚧 — completion in ~12 days.</i></p>
+## 🔥 Featured Project #2 — Advanced MLOps Capstone
+
+</div>
+
+<div align="center">
+
+> ### ⚙️ Advanced MLOps Capstone — DVC · MLflow · EKS · Prometheus · Grafana
+>
+> *The most complete MLOps system in this portfolio.*
+> *Adds experiment tracking, Kubernetes orchestration on AWS EKS, and real-time production monitoring — on top of everything Project #1 already does.*
+> 
+> ![IN PROGRESS](https://img.shields.io/badge/🚧%20Status-In%20Active%20Development-yellow?style=flat-square)
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white"/>
@@ -220,7 +256,6 @@ Hallucination Reduction
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🚧%20IN%20PROGRESS-yellow?style=flat-square"/>
 </p>
 
 ```
