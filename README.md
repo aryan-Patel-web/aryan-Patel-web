@@ -17,7 +17,6 @@
 
 <div align="center">
 
-## `> whoami`
 
 </div>
 
@@ -60,7 +59,6 @@ aryan_patel = {
 
 <div align="center">
 
-## `> ls -la core_expertise/`
 
 </div>
 
@@ -136,7 +134,7 @@ Hallucination Reduction
 
 ---
 
-<!--  ████████████████████  FEATURED PROJECT #1  ████████████████████ -->
+<!--  ████████████████████ 🏆 FEATURED PROJECT #1 🏆  ████████████████████ -->
 <div align="center">
 
 ## 🏆 Featured Project #1 — MLOps & Machine Learning
@@ -226,7 +224,7 @@ Hallucination Reduction
 
 ---
 
-<!--  ████████████████████  FEATURED PROJECT #2  ████████████████████ -->
+<!--  ████████████████████ 🏆 FEATURED PROJECT #2 🏆 ████████████████████ -->
 <div align="center">
 
 ## 🔥 Featured Project #2 — Advanced MLOps Capstone
@@ -389,7 +387,6 @@ NLP sentiment pipeline using **Word2Vec embeddings + RandomForest**. Full prepro
 
 <div align="center">
 
-## `> cat generative_ai_projects.json`
 
 </div>
 
@@ -467,7 +464,6 @@ LLM + OCR extraction engine with **94% structured field accuracy** and **<15 sec
 
 <div align="center">
 
-## `> ls full_stack_projects/`
 
 </div>
 
@@ -539,7 +535,6 @@ Multimodal chat interface with history panel and animated components. Architectu
 
 <div align="center">
 
-## `> cat tech_stack.yml`
 
 </div>
 
@@ -639,8 +634,6 @@ Multimodal chat interface with history panel and animated components. Architectu
 
 <div align="center">
 
-## `> git log --stats`
-
 </div>
 
 <p align="center">
@@ -658,7 +651,6 @@ Multimodal chat interface with history panel and animated components. Architectu
 
 <div align="center">
 
-## `> cat certifications.json`
 
 </div>
 
@@ -710,7 +702,6 @@ Multimodal chat interface with history panel and animated components. Architectu
 
 <div align="center">
 
-## `> ping aryan --connect`
 
 </div>
 
