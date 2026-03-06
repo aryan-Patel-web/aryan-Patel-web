@@ -126,7 +126,6 @@ Hallucination Reduction
 
 <div align="center">
 
-## `> cat featured_projects.yaml`
 
 ### ⚙️ MLOps & Machine Learning
 
