@@ -128,7 +128,7 @@ Hallucination Reduction
 
 
 
-### ⚙️ Fatured Projects-1 --> MLOps & Machine Learning
+### ⚙️ [Fatured Projects-1 --> MLOps & Machine Learning]
 
 </div>
 
@@ -156,6 +156,7 @@ Hallucination Reduction
 ║      ──► Model Pusher ──► S3 Registry ──► FastAPI ──► Docker                ║
 ║      ──► ECR ──► EC2 ──►  🔴 LIVE: http://3.237.0.238:5000                 ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
+ DEMO URL = [🔴 LIVE: http://3.237.0.238:5000 ]
 ```
 
 <table width="100%">
@@ -201,7 +202,7 @@ Hallucination Reduction
 </p>
 
 ---
-### ⚙️ Fatured Projects-1 --> MLOps & Machine Learning
+### ⚙️🏆 [Fatured Projects-2 --> MLOps & Machine Learning]
 
 ### 🔥 Advanced MLOps Capstone — DVC · MLflow · EKS · Prometheus · Grafana
 
