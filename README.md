@@ -15,11 +15,6 @@
 
 <br/>
 
-<div align="center">
-
-
-</div>
-
 I'm an **AI/ML & MLOps Engineer** who builds complete, production-ready ML systems — not just models. My work covers the **full lifecycle**: cloud data pipelines, experiment tracking, automated CI/CD, Kubernetes orchestration on AWS EKS, and real-time monitoring with Prometheus + Grafana.
 
 I architect the **entire system** around the model — DVC-versioned pipelines, MLflow on DagsHub, S3 model registries, EKS-deployed containerized APIs, and observability dashboards that tell you *exactly what your model is doing right now in production.*
@@ -56,11 +51,6 @@ aryan_patel = {
 </p>
 
 ---
-
-<div align="center">
-
-
-</div>
 
 <table align="center" width="100%">
 <tr>
@@ -126,7 +116,6 @@ Hallucination Reduction
 
 <div align="center">
 
-
 ### ⚙️ MLOps & Machine Learning
 
 </div>
@@ -189,7 +178,7 @@ Hallucination Reduction
 | 🗄️ S3 Model Registry | Versioned model push to `model-registry/` on every win |
 | 🐳 Containerized | Fully Dockerized, deployed via ECR → EC2 |
 | 🔄 Zero-Touch CI/CD | Git push → Docker → ECR → EC2 → Live, automated |
-| 📋 Reproducible Artifacts | Every run timestamped and isolated under `artifact/<timestamp>/` |
+| 📋 Reproducible Artifacts | Every run timestamped under `artifact/<timestamp>/` |
 | 🛠️ Custom Logger & Exception | File + line-level tracebacks across every component |
 
 </td>
@@ -232,16 +221,17 @@ Hallucination Reduction
 
 <div align="center">
 
-> ### ⚙️ Advanced MLOps Capstone — DVC · MLflow · EKS · Prometheus · Grafana
+> ### 💬 [Production Sentiment Analysis — End-to-End MLOps Pipeline](https://github.com/aryan-Patel-web/production-sentiment-analysis-end-to-end-mlops)
 >
 > *The most complete MLOps system in this portfolio.*
-> *Adds experiment tracking, Kubernetes orchestration on AWS EKS, and real-time production monitoring — on top of everything Project #1 already does.*
-> 
-> ![IN PROGRESS](https://img.shields.io/badge/🚧%20Status-In%20Active%20Development-yellow?style=flat-square)
+> *NLP text data → DVC pipeline → MLflow tracking → pytest CI → Docker → ECR → AWS EKS → Prometheus + Grafana monitoring.*
+>
+> ![COMPLETE](https://img.shields.io/badge/✅%20Status-Production%20Complete-brightgreen?style=flat-square)
 
 </div>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/DagsHub-FF6D00?style=flat-square"/>
@@ -249,21 +239,22 @@ Hallucination Reduction
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
-║  RAW DATA ──► DVC Pipeline (dvc repro) ──► MLflow: params / metrics / artifacts    ║
-║      ──► MLflow Registry (None → Staging → Production)                             ║
-║      ──► GitHub Actions: pytest ──► Docker build ──► Push to AWS ECR               ║
-║      ──► kubectl apply ──► AWS EKS Cluster (CloudFormation stacks)                 ║
-║      ──► LoadBalancer Service ──► Flask App Pods :5000                             ║
-║      ──► Prometheus EC2 (:9090) scrapes /metrics every 15s                        ║
-║      ──► Grafana EC2 (:3000) ──► Real-Time Dashboards ──► 📊 LIVE MONITORING      ║
+║  RAW TEXT DATA ──► DVC Pipeline (dvc repro) ──► MLflow: params / metrics / artifacts║
+║      ──► MLflow Registry (None → Staging → Production)                              ║
+║      ──► GitHub Actions: pytest ──► Docker build ──► Push to AWS ECR                ║
+║      ──► kubectl apply ──► AWS EKS Cluster (CloudFormation stacks)                  ║
+║      ──► LoadBalancer Service ──► Flask Sentiment API Pods :5000                    ║
+║      ──► Prometheus EC2 (:9090) scrapes /metrics every 15s                         ║
+║      ──► Grafana EC2 (:3000) ──► Real-Time Dashboards ──► 📊 LIVE MONITORING       ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -283,8 +274,8 @@ Hallucination Reduction
 ┌──────────────────────────────▼──────────────────────────────────┐
 │              AWS EKS KUBERNETES CLUSTER                         │
 │  ┌──────────────────────────────────────────────────────────┐   │
-│  │  Flask App Pod(s)  ←── K8s Secrets (env vars injected)  │   │
-│  │  PVC (persistent storage) │ Namespaces │ Health checks   │   │
+│  │  Flask Sentiment API Pod(s) ← K8s Secrets (env injected) │   │
+│  │  PVC (model + vectorizer storage) │ Health checks        │   │
 │  └────────────────────┬─────────────────────────────────────┘   │
 │  LoadBalancer Service ←── External Traffic :5000               │
 │  Node Group: t3.small │ Auto Scaling │ CloudFormation mgd      │
@@ -301,21 +292,64 @@ Hallucination Reduction
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-**What this project adds over Project #1 — layer by layer:**
+**What this project covers — layer by layer:**
 
 | Layer | Tool | What It Unlocks |
 |-------|------|----------------|
-| 📁 Data Versioning | **DVC + AWS S3** | Dataset snapshots tracked; full pipeline reproducibility with `dvc repro` |
-| 🧪 Experiment Tracking | **MLflow + DagsHub** | All runs, params, metrics, artifacts logged and compared visually |
-| 📋 Model Registry | **MLflow Registry** | Staged model promotion: `None → Staging → Production` with full history |
+| 📁 Data Versioning | **DVC + AWS S3** | Text dataset snapshots tracked; full pipeline reproducibility with `dvc repro` |
+| 🧹 NLP Pipeline | **CountVectorizer + LogisticRegression** | Raw text → cleaned tokens → TF features → trained classifier, all in one `dvc.yaml` |
+| 🧪 Experiment Tracking | **MLflow + DagsHub** | All runs, params (`params.yaml`), metrics, artifacts logged and compared visually |
+| 📋 Model Registry | **MLflow Registry** | Staged model promotion: `None → Staging → Production` with full audit history |
 | 🧪 CI Quality Gate | **pytest** | Unit tests run before every build — broken code never ships |
 | 🐳 Image Registry | **AWS ECR** | Docker images built and pushed on every green commit automatically |
-| ☸️ Orchestration | **AWS EKS + kubectl** | App runs in Kubernetes — rolling deploys, health checks, managed nodes |
-| ⚖️ Load Balancing | **EKS LoadBalancer** | AWS-native load balancer distributes traffic across pods |
-| 🔐 Secrets | **GitHub Secrets + K8s Secrets** | AWS keys and app tokens injected at runtime — never in code |
-| 📡 Metrics | **Prometheus (EC2)** | Scrapes Flask app metrics every 15s: req count, latency, errors, uptime |
-| 📊 Dashboards | **Grafana (EC2)** | Real-time visual dashboards over Prometheus with alerts configured |
-| 🏗️ Infra as Code | **CloudFormation via eksctl** | EKS cluster + nodegroups as CloudFormation stacks — `eksctl delete` cleans all |
+| ☸️ Orchestration | **AWS EKS + kubectl** | Sentiment API runs in Kubernetes — rolling deploys, health checks, managed nodes |
+| ⚖️ Load Balancing | **EKS LoadBalancer** | AWS-native load balancer distributes inference traffic across pods |
+| 🔐 Secrets | **GitHub Secrets + K8s Secrets** | AWS keys and app tokens injected at runtime — never hardcoded |
+| 📡 Metrics | **Prometheus (EC2)** | Scrapes Flask `/metrics` endpoint every 15s: req count, latency, errors, uptime |
+| 📊 Dashboards | **Grafana (EC2)** | Real-time visual dashboards over Prometheus with custom alerts configured |
+| 🏗️ Infra as Code | **CloudFormation via eksctl** | EKS cluster + nodegroups as CloudFormation stacks — `eksctl delete` cleans everything |
+| 📦 Project Structure | **Cookiecutter DS** | `src/` · `notebooks/` · `tests/` · `flask_app/` · `reports/` — production-grade layout |
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🔧 ML Pipeline Details**
+
+| Stage | Detail |
+|-------|--------|
+| 📥 Data Ingestion | Raw text loaded, versioned with **DVC** + S3 remote |
+| 🧹 Preprocessing | Tokenization, stopword removal, lowercase normalization |
+| 🔢 Feature Engineering | **CountVectorizer** — sparse BoW matrix, configurable via `params.yaml` |
+| 🤖 Model Training | **LogisticRegression** — solver, C, max_iter all DVC-parameterized |
+| 📊 Evaluation | Accuracy, F1, precision, recall logged to **MLflow** on DagsHub |
+| 🚀 Model Promotion | `dvc repro` → MLflow compares runs → best model promoted to Production |
+
+</td>
+<td width="50%" valign="top">
+
+**☁️ Infrastructure**
+
+| Layer | Tool |
+|-------|------|
+| Data + Model Storage | AWS S3 (DVC remote) |
+| Experiment Tracking | MLflow on DagsHub |
+| Container Registry | AWS ECR |
+| Compute | AWS EKS · t3.small Node Group |
+| Monitoring | Prometheus + Grafana on EC2 |
+| API | Flask + `/predict` + `/metrics` endpoints |
+| CI/CD | GitHub Actions (pytest → Docker → ECR → EKS) |
+| IAM | Scoped AWS user — no root credentials |
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/aryan-Patel-web/production-sentiment-analysis-end-to-end-mlops" target="_blank">
+    <img src="https://img.shields.io/badge/📂%20View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -383,11 +417,6 @@ NLP sentiment pipeline using **Word2Vec embeddings + RandomForest**. Full prepro
 </table>
 
 ---
-
-<div align="center">
-
-
-</div>
 
 <table width="100%">
 <tr>
@@ -461,11 +490,6 @@ LLM + OCR extraction engine with **94% structured field accuracy** and **<15 sec
 
 ---
 
-<div align="center">
-
-
-</div>
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -531,11 +555,6 @@ Multimodal chat interface with history panel and animated components. Architectu
 </table>
 
 ---
-
-<div align="center">
-
-
-</div>
 
 <h4 align="center">⚙️ MLOps · Experiment Tracking · Data Versioning · CI/CD</h4>
 <p align="center">
@@ -631,10 +650,6 @@ Multimodal chat interface with history panel and animated components. Architectu
 
 ---
 
-<div align="center">
-
-</div>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=aryan-Patel-web&theme=vue&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=aryan-patel-web&show_icons=true&theme=vue&hide_border=true&locale=en" alt="GitHub Stats" width="49%"/>
@@ -647,11 +662,6 @@ Multimodal chat interface with history panel and animated components. Architectu
 </p>
 
 ---
-
-<div align="center">
-
-
-</div>
 
 <table align="center" width="100%">
 <tr>
@@ -698,11 +708,6 @@ Multimodal chat interface with history panel and animated components. Architectu
 </table>
 
 ---
-
-<div align="center">
-
-
-</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-patel-97396524b" target="_blank">
