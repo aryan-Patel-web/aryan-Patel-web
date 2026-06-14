@@ -68,6 +68,18 @@ aryan_patel = {
 <tr>
 <td align="center" width="20%" valign="top">
 
+<div align="center">
+
+# 🌐 Live Portfolio
+
+### 🚀 **[Visit My Portfolio](https://portfolio-aryan-pateldev.vercel.app/)**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel)](https://portfolio-aryan-pateldev.vercel.app/)
+
+**🔗 https://portfolio-aryan-pateldev.vercel.app/**
+
+</div>
+
 **⚙️ MLOps Pipeline**
 
 DVC · MLflow · DagsHub
