@@ -29,7 +29,7 @@
 </table>
 
 ---
-[![Aryan Patel Portfolio](https://img.shields.io/badge/👨‍💻_Aryan_Patel-View_Portfolio_&_Projects-blue?style=for-the-badge)](https://portfolio-aryan-pateldev.vercel.app/)
+[![Portfolio | Aryan Patel](https://img.shields.io/badge/Portfolio-Aryan_Patel-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-aryan-pateldev.vercel.app/)
 
 
 ```python
