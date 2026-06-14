@@ -48,15 +48,23 @@ aryan_patel = {
   <a href="https://www.linkedin.com/in/aryan-patel-97396524b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
+  
   <a href="mailto:patelaryan77462@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
+  
   <a href="https://drive.google.com/file/d/19f70uialc6PYCukJg5cgMQhgotIv27bj/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-F4B400?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>&nbsp;
+  
+  <a href="https://portfolio-aryan-pateldev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Website-4F46E5?style=for-the-badge"/>
+  </a>&nbsp;
+  
   <a href="https://velocityfly.com" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20VelocityFly.com-Live%20SaaS-FF6B35?style=for-the-badge"/>
   </a>&nbsp;
+  
   <a href="https://wa.me/919140782212" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
@@ -68,17 +76,6 @@ aryan_patel = {
 <tr>
 <td align="center" width="20%" valign="top">
 
-<div align="center">
-
-# 🌐 Live Portfolio
-
-### 🚀 **[Visit My Portfolio](https://portfolio-aryan-pateldev.vercel.app/)**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel)](https://portfolio-aryan-pateldev.vercel.app/)
-
-**🔗 https://portfolio-aryan-pateldev.vercel.app/**
-
-</div>
 
 **⚙️ MLOps Pipeline**
 
