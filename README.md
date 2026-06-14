@@ -341,35 +341,6 @@ RAW TEXT DATA ──► DVC Pipeline (dvc repro) ──► MLflow: params / metr
 <tr>
 <td width="50%" valign="top">
 
-### 📈 LSTM Stock Price Predictor
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square)
-
-LSTM trained on **60-step sequence windows** for next-day close price prediction. Saved model + scaler for reproducible inference. Live Flask dashboard with actual vs. predicted visualization.
-
-`Sequence windowing` · `MinMaxScaler` · `LSTM architecture` · `Flask deployment`
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 Customer Salary Prediction — ANN
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-End-to-end ANN regression for salary prediction. Full preprocessing pipeline (encoding + scaling), TensorFlow/Keras training, interactive Streamlit app for real-time inference.
-
-**[📂 Repository](https://github.com/aryan-Patel-web/Customer-Salary-Prediction-Using_ANN_DL_Project)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🏠 Airbnb Full-Stack Clone
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -480,6 +451,44 @@ LangGraph autonomous agent: search → summarize → verify → email. RAG groun
 `LangGraph nodes` · `RAG grounding` · `Verification loops`
 
 </td>
+</tr>
+</table>
+
+---
+
+## 📊 ML & Deep Learning Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📈 LSTM Stock Price Predictor
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square)
+
+LSTM trained on **60-step sequence windows** for next-day close price prediction. Saved model + scaler for reproducible inference. Live Flask dashboard with actual vs. predicted visualization.
+
+`Sequence windowing` · `MinMaxScaler` · `LSTM architecture` · `Flask deployment`
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Customer Salary Prediction — ANN
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+End-to-end ANN regression for salary prediction. Full preprocessing pipeline (encoding + scaling), TensorFlow/Keras training, interactive Streamlit app for real-time inference.
+
+**[📂 Repository](https://github.com/aryan-Patel-web/Customer-Salary-Prediction-Using_ANN_DL_Project)**
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛍️ Amazon ML Challenge — Multimodal Pipeline
@@ -487,10 +496,25 @@ LangGraph autonomous agent: search → summarize → verify → email. RAG groun
 ![LightGBM](https://img.shields.io/badge/LightGBM-01A9DB?style=flat-square)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **Top 1% among 183,000+ participants.** 120K images fetched in 1 hour via `ThreadPoolExecutor`. TF-IDF + image features; ensemble CV SMAPE 52%.
 
-`Multimodal` · `Parallel downloads` · `Ensemble stacking`
+`Multimodal` · `Parallel downloads` · `Ensemble stacking` · `TruncatedSVD`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Kindle Review Sentiment Analysis
+
+![Gensim](https://img.shields.io/badge/Gensim%20Word2Vec-orange?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-green?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-blue?style=flat-square)
+
+NLP sentiment pipeline using **Word2Vec embeddings + RandomForest**. Full preprocessing: tokenization, stopword removal, lemmatization. Deployed as lightweight Flask web app.
+
+`Word2Vec` · `Feature averaging` · `NLP preprocessing` · `Flask deployment`
 
 </td>
 </tr>
