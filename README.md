@@ -29,6 +29,13 @@
 </table>
 
 ---
+```
+<p>
+  <a href="https://portfolio-aryan-pateldev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Website-4F46E5?style=for-the-badge"/>
+  </a>&nbsp;
+</p>
+```
 
 ```python
 aryan_patel = {
@@ -43,6 +50,7 @@ aryan_patel = {
   "⚡  fun_fact"     : "I break things fast so I can build them better — every failed experiment becomes a repo 😉"
 }
 ```
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-patel-97396524b" target="_blank">
