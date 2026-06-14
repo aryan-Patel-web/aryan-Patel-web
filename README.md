@@ -30,11 +30,7 @@
 
 ---
 ```
-<p align="center">
-  <a href="https://portfolio-aryan-pateldev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Website-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-aryan-pateldev.vercel.app/)
 ```
 
 ```python
