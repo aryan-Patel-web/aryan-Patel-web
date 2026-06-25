@@ -1,5 +1,3 @@
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,29&text=Aryan%20Patel&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=36&desc=MLOps%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Generative%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=58&textBg=false"/>
 
 <p align="center">
@@ -188,13 +186,15 @@ Hallucination Reduction
 
 <table width="100%">
 <tr>
-<td align="center" width="20%"><b>70K+</b><br/><sub>Organic Views</sub></td>
-<td align="center" width="20%"><b>600+</b><br/><sub>Shorts Auto-Published</sub></td>
+<td align="center" width="20%"><b>600+</b><br/><sub>Shorts/Posts Auto-Published</sub></td>
 <td align="center" width="20%"><b>140+</b><br/><sub>Affiliate Clicks · 0 Ads</sub></td>
-<td align="center" width="20%"><b>10</b><br/><sub>Live Users</sub></td>
-<td align="center" width="20%"><b>3</b><br/><sub>YT Channels Automated</sub></td>
+<td align="center" width="20%"><b>10+</b><br/><sub>Live Users</sub></td>
+<td align="center" width="20%"><b>4</b><br/><sub>Platforms Live</sub></td>
+<td align="center" width="20%"><b>20+</b><br/><sub>Posts Automated/Platform</sub></td>
 </tr>
 </table>
+
+**🚀 Post Once. Earn Forever. — Start Publishing Today, Earn From Day 1.**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -251,18 +251,16 @@ Hallucination Reduction
 - 🗣️ Multi-language TTS — Hindi, Hinglish, Tamil, Telugu, Bengali
 - 📊 Analytics dashboard: last 28 days views, likes, subscribers, per-video
 - 🖼️ AI thumbnail studio (3 styles/video) · Image-to-video pipeline
-- 🌐 **Multi-Platform Expansion** — one affiliate URL published across YouTube → Instagram → Facebook → WhatsApp → Reddit simultaneously
+- 🌐 **Multi-Platform Live** — one Amazon affiliate tag auto-embedded across YouTube → Instagram → Facebook → LinkedIn simultaneously
 
 **Platform Status:**
 
 | Platform | Status |
 |----------|--------|
 | ▶ YouTube | ✅ 100% Live |
-| 📸 Instagram | 🔧 Under Development |
-| 📘 Facebook | 🔧 Under Development |
-| 💬 WhatsApp | 🔧 Under Development |
-| 🔴 Reddit | 🔧 Under Development |
-| 🔗 LinkedIn | ⏳ Coming Soon |
+| 📸 Instagram | ✅ 100% Live |
+| 📘 Facebook | ✅ 100% Live |
+| 🔗 LinkedIn | ✅ 100% Live |
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/aryan-Patel-web/Velocityfly.com)
 [![Live](https://img.shields.io/badge/🌐%20Live%20Platform-velocityfly.com-FF6B35?style=for-the-badge)](https://velocityfly.com)
@@ -739,5 +737,4 @@ NLP sentiment pipeline using **Word2Vec embeddings + RandomForest**. Full prepro
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=6,11,20,29&section=footer"/> 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=6,11,20,29&section=footer"/>
