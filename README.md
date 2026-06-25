@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,29&text=Aryan%20Patel&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=36&desc=MLOps%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Generative%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=58&textBg=false"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,29&text=Aryan%20Patel&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=36&desc=MLOps%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Generative%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=58&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=900&lines=Solo+Founder+%40+VelocityFly+AI+%F0%9F%9A%80+%7C+70K%2B+Organic+YT+Views;Building+Production+ML+Pipelines+%E2%9A%99%EF%B8%8F;MLOps+%7C+DVC+%7C+MLflow+%7C+Kubernetes+%7C+Prometheus+%F0%9F%9A%80;Deploying+AI+on+AWS+EKS+%2B+ECR+%2B+EC2+%E2%98%81%EF%B8%8F;Crafting+Generative+AI+%26+RAG+Solutions+%F0%9F%A7%A0;Top+1%25+Amazon+ML+Challenge+%7C+183K%2B+Participants+%F0%9F%8F%86;Data+%E2%86%92+Model+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Scale+%F0%9F%93%88" alt="Typing SVG" />
@@ -737,4 +737,780 @@ NLP sentiment pipeline using **Word2Vec embeddings + RandomForest**. Full prepro
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=6,11,20,29&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=6,11,20,29&section=footer"/> -->
+
+
+
+
+<div align="center">
+
+# 🚀 VelocityFly — AI Social Media Automation Platform
+
+### *Post Once. Earn Forever.*
+### Start Publishing Today — Earn From Day 1.
+
+[![Try It Live](https://img.shields.io/badge/🌐_Try_It_Live-velocityfly.com-FF6B35?style=for-the-badge)](https://velocityfly.com)
+[![Backend API](https://img.shields.io/badge/⚙️_Backend_API-api.velocityfly.com-green?style=for-the-badge)](https://api.velocityfly.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-aryan--Patel--web%2FVelocityfly.com-black?style=for-the-badge&logo=github)](https://github.com/aryan-Patel-web/Velocityfly.com)
+
+![Made in India](https://img.shields.io/badge/🇮🇳_Made_in-India-orange?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/React-Vite-61DAFB?style=flat-square&logo=react)
+![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live_%7C_4_Platforms_Connected-brightgreen?style=flat-square)
+
+**YouTube ✅ · Instagram ✅ · Facebook ✅ · LinkedIn ✅ — all 4 platforms live**
+
+---
+
+**VelocityFly** is a full-stack, AI-powered social media automation platform built for Indian content creators, small businesses, and digital agencies. It writes AI content and **silently embeds your Amazon affiliate link** across **YouTube, Instagram, Facebook, and LinkedIn** — so every normal post becomes a passive commission opportunity. Connect once, post on autopilot, and start earning 3–9% commission on any purchase made within 24 hours of a click — from your very first post.
+
+<table align="center" width="100%">
+<tr>
+<td align="center"><b>10+</b><br/><sub>Active Creators</sub></td>
+<td align="center"><b>600+</b><br/><sub>Shorts / Posts Auto-Published</sub></td>
+<td align="center"><b>20+</b><br/><sub>Posts Automated / Platform</sub></td>
+<td align="center"><b>100+</b><br/><sub>Affiliate Clicks / Month</sub></td>
+<td align="center"><b>40+</b><br/><sub>Hours Saved / Week</sub></td>
+<td align="center"><b>4</b><br/><sub>Platforms Live</sub></td>
+</tr>
+</table>
+
+> ⚠️ **First Visit Note:** The app runs on Render's free tier. If it seems slow to load, please visit the [backend URL](https://api.velocityfly.com/) first to wake the server (it sleeps after inactivity), then reload the [frontend](https://velocityfly.com).
+
+</div>
+
+---
+
+## 📋 Table of Contents
+
+1. [About the Project](#-about-the-project)
+2. [The Problem We Solve](#-the-problem-we-solve)
+3. [Platform Features](#-platform-features)
+4. [Tech Stack](#-tech-stack)
+5. [Project Structure — Frontend](#-project-structure--frontend)
+6. [Project Structure — Backend](#-project-structure--backend)
+7. [Key Backend Modules Explained](#-key-backend-modules-explained)
+8. [API Overview](#-api-overview)
+9. [Environment Variables](#-environment-variables)
+10. [Local Development Setup](#-local-development-setup)
+11. [Deployment Guide](#-deployment-guide)
+12. [Current Development Status](#-current-development-status)
+13. [Roadmap](#-roadmap)
+14. [Pricing Plans](#-pricing-plans)
+15. [Business Model & Revenue](#-business-model--revenue)
+16. [Investment & Funding Goals](#-investment--funding-goals)
+17. [Government Grant Targets](#-government-grant-targets)
+18. [Founder](#-founder)
+19. [Contact](#-contact)
+
+---
+
+## 🎯 About the Project
+
+VelocityFly (marketed as **VelocityPost**) started as a personal project to solve a problem I faced as a developer experimenting with content creation: managing multiple platforms manually is exhausting, inconsistent, and leaves money on the table.
+
+**All 4 platforms are now live and connected:**
+
+- **YouTube** ✅ — AI-generated video scripts, thumbnail creation, Shorts automation, comment auto-reply, smart scheduling, image slideshow videos, image-to-video automation, analytics tracking, affiliate URL auto-embed
+- **Instagram** ✅ — AI captions/Reels/image/video posts, affiliate link auto-embed, publish dashboard, analytics
+- **Facebook** ✅ — AI page post automation (text/photo/video), affiliate block auto-embed, page analytics dashboard
+- **LinkedIn** ✅ — AI professional post generation, affiliate promo embed, post log, analytics
+
+Every platform shares one core engine: **type a topic (or leave it blank), AI writes the content, your Amazon affiliate tag is silently appended — and it publishes itself.** Followers click, buy *anything* on Amazon within 24 hours, and the creator earns 3–9% commission automatically.
+
+The backend is written in **Python (FastAPI / Flask)** and the frontend in **React (Vite + Tailwind CSS)**. The project is a solo-built full-stack startup, now live in production with real creators publishing and earning daily.
+
+---
+
+## 🔥 The Problem We Solve
+
+India has over **500 million social media users** and a rapidly growing creator economy. But most Indian creators and small businesses:
+
+- Post manually across 3–5 platforms every day, with no affiliate revenue attached to any of it
+- Have no budget for social media managers (₹30,000–₹80,000/month)
+- Waste 20+ hours per week on repetitive content tasks
+- Miss peak posting times because they are busy with their main work
+- Cannot afford enterprise tools like Hootsuite or Sprout Social ($249/month) — and even those don't auto-embed affiliate links
+
+**VelocityFly** solves all of this for ₹0–₹399 per month — post across YouTube, Instagram, Facebook, and LinkedIn from one dashboard, with your Amazon affiliate link silently embedded in every single post. Accessible to students, solo creators, and small businesses across Tier 2 and Tier 3 Indian cities — **earning starts from post #1**.
+
+---
+
+## ✨ Platform Features
+
+### 📺 YouTube Automation (100% Live)
+
+| Feature | Description | Status |
+|---|---|---|
+| AI Video Script Generator | AI-powered scripts for Shorts and long-form videos in Hindi + English | ✅ Live |
+| Thumbnail Studio | 3 AI-generated thumbnail designs with text overlays and frame extraction | ✅ Live |
+| Image-to-Video Automation | Converts images into a publish-ready video automatically | ✅ Live |
+| Smart Scheduler | Posts at optimal times based on Indian audience patterns | ✅ Live |
+| Image Slideshow Creator | Converts 2–6 images into a YouTube Short with transitions and music | ✅ Live |
+| Comment Auto-Reply | AI replies to comments 24/7 in a natural, human-like tone | ✅ Live |
+| YouTube Analytics & Dashboard | View count, CTR, subscriber trends, engagement stats | ✅ Live |
+| Product Ads Automation | Scrapes Amazon/Flipkart by category, builds promo video, auto-uploads as Short | ✅ Live |
+| Viral Pixel Video Automation | Viral topic discovery + auto-generated trend video content | ✅ Live |
+| AI Re-Voicer | Re-voices existing videos with new AI narration | ✅ Live |
+| OAuth YouTube Connect | One-click Google OAuth to connect any YouTube channel | ✅ Live |
+| Affiliate Auto-Embed | Amazon affiliate URL auto-embedded in every video description | ✅ Live |
+
+### 📸 Instagram Automation (100% Live)
+
+| Feature | Description | Status |
+|---|---|---|
+| AI Content Generator | Generates captions for Image / Reel / Video posts in Hindi, English, Hinglish | ✅ Live |
+| Publish Engine | Direct publish via Instagram Graph API (image, reel, video) | ✅ Live |
+| Affiliate Auto-Embed | Amazon affiliate link silently appended to every caption | ✅ Live |
+| Analytics Dashboard | Reach, engagement, and click tracking | ✅ Live |
+
+### 📘 Facebook Automation (100% Live)
+
+| Feature | Description | Status |
+|---|---|---|
+| AI Content Generator | Text / photo / video post generation | ✅ Live |
+| Publish Engine | Direct publish to connected Facebook Page | ✅ Live |
+| Affiliate Auto-Embed | Affiliate block auto-added to every post | ✅ Live |
+| Page Analytics Dashboard | Page likes, followers, avg. reactions, avg. comments, recent post performance | ✅ Live |
+
+### 💼 LinkedIn Automation (100% Live)
+
+| Feature | Description | Status |
+|---|---|---|
+| AI Content Generator | Professional post generation with affiliate promo blended naturally | ✅ Live |
+| Publish Engine | Direct publish to connected LinkedIn profile/page | ✅ Live |
+| Affiliate Dashboard | Amazon Associates tag management, commission-by-category breakdown, "How Earnings Work" walkthrough | ✅ Live |
+| Post Log & Analytics | Full history of published posts with performance tracking | ✅ Live |
+
+### 💰 Cross-Platform Affiliate Engine
+
+| Feature | Description |
+|---|---|
+| One Tag, Every Platform | Set your Amazon Associates tag once — every post on every platform gets a fresh affiliate URL automatically |
+| Commission Range | 3–9% depending on product category (Fashion/Beauty/Jewellery ~9%, Electronics/Mobiles ~3–4%) |
+| 24h Cookie Window | Follower doesn't need to buy the linked product — any Amazon purchase within 24h of the click earns commission |
+| Unified Earnings View | Affiliate dashboard per platform showing tag status, commission range, and category-wise rate card |
+| Payout | Amazon pays monthly via bank transfer or gift card once the ₹1,000 threshold is hit |
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+| Technology | Purpose |
+|---|---|
+| React 18 + Vite | Core frontend framework and build tool |
+| Tailwind CSS | Utility-first CSS styling |
+| shadcn/ui | Pre-built accessible UI components |
+| React Router v6 | Client-side routing |
+| Axios | HTTP client for API calls |
+| Lucide React | Icon library |
+
+### Backend
+| Technology | Purpose |
+|---|---|
+| Python 3.12 | Core backend language |
+| FastAPI / Flask | REST API framework |
+| SQLAlchemy | ORM for database operations |
+| OpenAI GPT API | AI content generation |
+| Google YouTube Data API v3 | YouTube channel management and uploads |
+| Reddit PRAW | Reddit API wrapper for post/comment automation |
+| Playwright | Browser automation for web scraping |
+| Pillow / MoviePy / FFmpeg | Image and video processing |
+| Google Drive API | Video storage and retrieval |
+| Pixabay API | Stock image fetching for slideshows |
+| JWT + bcrypt | Authentication and password hashing |
+| Render | Cloud deployment platform |
+
+---
+
+## 📁 Project Structure — Frontend
+
+```
+frontend/
+├── public/
+│   └── _redirects                  # Render SPA routing fix
+│
+├── src/
+│   ├── App.jsx                     # Root component, route definitions
+│   ├── App.css                     # Global app styles
+│   ├── main.jsx                    # React entry point
+│   ├── index.css                   # Base CSS reset
+│   ├── Landing_Page.jsx            # Main marketing landing page
+│   ├── Templateuniversal.jsx       # Shared page layout wrapper
+│   │
+│   ├── components/
+│   │   ├── navbar.jsx              # Top navigation bar
+│   │   ├── footer.jsx              # Site-wide footer
+│   │   ├── scroll-progress.jsx     # Scroll indicator component
+│   │   │
+│   │   ├── sections/               # Landing page sections
+│   │   │   ├── hero-section.jsx            # Main hero with CTA
+│   │   │   ├── features-section.jsx        # Feature highlights
+│   │   │   ├── platforms-section.jsx       # Platform showcase
+│   │   │   ├── youtube-section.jsx         # YouTube feature overview
+│   │   │   ├── youtube-features-section.jsx # Detailed YT features
+│   │   │   ├── stats-section.jsx           # Numbers / social proof
+│   │   │   ├── testimonials-section.jsx    # User testimonials
+│   │   │   ├── pricing-section.jsx         # Pricing plans
+│   │   │   ├── how-it-works-section.jsx    # 5-step onboarding flow
+│   │   │   └── cta-section.jsx             # Bottom call-to-action
+│   │   │
+│   │   └── ui/                     # shadcn/ui component library
+│   │       ├── button.tsx, card.tsx, dialog.tsx
+│   │       ├── input.tsx, select.tsx, tabs.tsx
+│   │       ├── table.tsx, badge.tsx, avatar.tsx
+│   │       └── (50+ components)
+│   │
+│   ├── pages/                      # App dashboard pages
+│   │   ├── Home.jsx                # Main dashboard home
+│   │   ├── YouTube.jsx             # YouTube automation hub
+│   │   ├── YouTubeAutomation.jsx   # Full automation control panel
+│   │   ├── YouTubeCallback.jsx     # OAuth callback handler
+│   │   ├── yt.jsx                  # Quick YT tools page
+│   │   ├── Reddit.jsx              # Reddit dashboard
+│   │   ├── RedditAUTO.jsx          # Reddit automation interface
+│   │   ├── RedditAUTO.css          # Reddit page styles
+│   │   ├── INSTA.jsx               # Instagram dashboard
+│   │   ├── Fb.jsx                  # Facebook dashboard
+│   │   ├── WhatsApp.jsx            # WhatsApp dashboard
+│   │   └── ViralPixel.jsx          # Viral content discovery tool
+│   │
+│   ├── quickpage/                  # Authentication flow
+│   │   ├── AuthContext.jsx         # Global auth state provider
+│   │   ├── Login.jsx               # Login form
+│   │   ├── Register.jsx            # Registration form
+│   │   ├── Forgotpassword.jsx      # Password reset flow
+│   │   ├── ProtectedRoute.jsx      # Auth-gated route wrapper
+│   │   └── Header.jsx              # Auth pages header
+│   │
+│   ├── footerpages/                # Static information pages
+│   │   ├── About.jsx, Careers.jsx, Contact.jsx
+│   │   ├── Pricing.jsx, Features.jsx, FeaturesShowcase.jsx
+│   │   ├── Blog.jsx, Documentation.jsx, Api.jsx
+│   │   ├── Integrations.jsx, Status.jsx, Helpcenter.jsx
+│   │   ├── Privacypolicy.jsx, Termsofservice.jsx
+│   │   ├── Cookiepolicy.jsx, HowToConnect.jsx
+│   │   └── Community.jsx
+│   │
+│   ├── pricingpages/               # Detailed pricing breakdowns
+│   ├── providers/
+│   │   └── theme-provider.jsx      # Dark/light theme context
+│   ├── hooks/
+│   │   ├── use-mobile.ts           # Mobile detection hook
+│   │   └── use-toast.ts            # Toast notification hook
+│   ├── lib/
+│   │   └── utils.ts                # Shared utility functions
+│   └── styles/
+│       └── globals.css             # Global CSS variables
+│
+├── index.html                      # HTML entry point
+├── vite.config.js                  # Vite build configuration
+├── tailwind.config.js              # Tailwind CSS configuration
+├── postcss.config.js               # PostCSS configuration
+├── eslint.config.js                # ESLint rules
+├── render.yaml                     # Render deployment config
+└── package.json                    # Dependencies and scripts
+```
+
+---
+
+## 📁 Project Structure — Backend
+
+```
+backend/
+├── main.py                         # FastAPI app entry point, route registration
+├── Supermain.py                    # Master router combining all sub-apps
+├── config.py                       # App configuration, env variable loading
+├── auth.py                         # JWT auth, login, register, token refresh
+├── database.py                     # Primary DB connection and session management
+├── database1.py                    # YouTube-specific DB operations
+├── database2.py                    # Multi-user session DB layer
+│
+├── ── YouTube Engine ──
+├── youtube.py                      # Core YouTube API wrapper (upload, manage)
+├── mainY.py                        # YouTube automation entry routes
+├── YT_ai_services.py               # AI content generation for YouTube
+├── YT_extract_feature.py           # Feature extraction from existing videos
+├── YTdatabase.py                   # YouTube data models and queries
+├── YTscrapADS.py                   # YouTube ad insight scraper
+├── YTshorts.py                     # Shorts-specific automation logic
+├── YTvideo_services.py             # Video upload/management service layer
+├── YTvideoGenerator.py             # End-to-end video generation pipeline
+├── thumbnail.py                    # AI thumbnail generation (Pillow)
+├── slideshow_generator.py          # Image-to-video slideshow builder (FFmpeg)
+├── Viral_pixel.py                  # Viral topic discovery engine
+├── MrBeast.py                      # MrBeast-style content generator
+├── Pixabay.py                      # Pixabay API stock image fetcher
+├── china.py                        # China-trending short content generator
+├── split_screen_reels.py           # Split-screen reel video generator
+├── gdrive_food_hack_ENHANCED.py    # Food hack AI with Google Drive integration
+├── gdrive_reels.py                 # Reels from Google Drive videos
+│
+├── ── Reddit Engine ──
+├── reddit.py                       # Reddit PRAW wrapper, OAuth connect
+├── reddit_automation.py            # Scheduling, auto-post, comment automation
+├── stackoverflow.py                # Cross-platform Q&A finder (Reddit + SO)
+│
+├── ── Instagram / Facebook Engine ──
+├── INSTAauto.py                    # Instagram automation module
+├── FBauto.py                       # Facebook page automation module
+├── mainFBINSTA.py                  # Combined FB+Instagram route handler
+│
+├── ── WhatsApp Engine ──
+├── whatsapp.py                     # WhatsApp Business API integration
+├── mainW.py                        # WhatsApp route handler
+│
+├── ── AI Services ──
+├── ai_service.py                   # Primary GPT/LLM content generation service
+├── ai_service1.py                  # Secondary AI service (fallback/specialized)
+├── ai_service2.py                  # Tertiary AI service (batch processing)
+│
+├── ── Automation Core ──
+├── automation_endpoints.py         # REST endpoints for automation triggers
+├── automation_ui.py                # Automation settings and UI state handlers
+├── multi_USER.md                   # Multi-user architecture documentation
+│
+├── ── Utilities ──
+├── utils/
+│   ├── language_detector.py        # Detect Hindi/English/regional languages
+│   ├── text_formatter.py           # Format AI output for platform requirements
+│   └── voice_processor.py         # Voice synthesis / audio processing
+│
+├── ── Data Models ──
+├── models/
+│   ├── user.py                     # User schema (accounts, subscriptions)
+│   ├── content.py                  # Content schema (posts, videos, drafts)
+│   └── platform.py                 # Platform connection schema (OAuth tokens)
+│
+├── ── Deployment ──
+├── render.yaml                     # Render service configuration
+├── render-build.sh                 # Render build script (pip install, migrations)
+├── runtime.txt                     # Python version pin (3.12)
+├── requirements.txt                # Production dependencies
+├── requirements1.txt               # Extended / experimental dependencies
+│
+├── ── Config & Secrets ──
+├── .env                            # Local environment variables (not committed)
+├── .env.example                    # Template for required variables
+├── secrets.toml                    # Streamlit secrets (legacy)
+│
+├── ── Templates & Static ──
+├── templates/                      # Jinja2 HTML templates (debug pages)
+├── static/                         # Static file serving
+├── generated_videos/               # Temp storage for generated video output
+└── hulk_videos/                    # High-energy short video generation cache
+```
+
+---
+
+## 🔌 Key Backend Modules Explained
+
+### `main.py` — Application Entry Point
+Initialises the FastAPI application, registers all routers, configures CORS for the React frontend, and sets up middleware for JWT authentication.
+
+### `auth.py` — Authentication System
+Handles user registration, login, JWT token generation, token refresh, and password hashing with bcrypt. Supports both email/password and Google OAuth flows.
+
+### `youtube.py` + `YTvideo_services.py` — YouTube Engine
+Wraps the YouTube Data API v3. Handles OAuth token management, video uploads, metadata setting (title, description, tags), thumbnail assignment, and playlist management. `YTvideo_services.py` adds a service layer for retry logic and error handling.
+
+### `YT_ai_services.py` — YouTube AI Content Engine
+Takes a topic, language preference, and content type as input and returns a complete video script, SEO title, description, and hashtag set using GPT-4. Supports Hindi, English, and 10 regional Indian languages.
+
+### `slideshow_generator.py` — Image to Video Pipeline
+Accepts 2–6 images, applies Ken Burns pan-zoom transitions using FFmpeg, adds background music from a royalty-free library, and exports a 9:16 vertical video ready for YouTube Shorts upload.
+
+### `reddit_automation.py` — Reddit Scheduler
+Uses PRAW (Python Reddit API Wrapper) to schedule posts, find questions matching a user's niche using keyword matching, generate AI answers, and post them automatically. Includes rate-limit awareness to avoid Reddit API bans.
+
+### `ai_service.py` — Central AI Brain
+The primary content generation service. Routes requests to OpenAI GPT-4 with platform-specific system prompts. Handles prompt engineering, response parsing, and retry logic on API failures.
+
+### `thumbnail.py` — Thumbnail Generator
+Uses Pillow to composite text overlays, emoji, and frame-extracted images into YouTube thumbnails. Outputs 3 design variants per request for A/B testing.
+
+### `Viral_pixel.py` — Viral Topic Discovery
+Scrapes trending topics from YouTube search, Reddit front pages, and Google Trends to suggest high-opportunity content angles for a given niche.
+
+---
+
+## 🔐 Environment Variables
+
+Create a `.env` file in the backend root. Use `.env.example` as the template.
+
+```env
+# Database
+DATABASE_URL=postgresql://user:password@host:5432/velocityfly
+
+# Authentication
+SECRET_KEY=your_jwt_secret_key_here
+ALGORITHM=HS256
+ACCESS_TOKEN_EXPIRE_MINUTES=1440
+
+# OpenAI
+OPENAI_API_KEY=sk-...
+
+# Google / YouTube OAuth
+GOOGLE_CLIENT_ID=your_google_client_id
+GOOGLE_CLIENT_SECRET=your_google_client_secret
+YOUTUBE_REDIRECT_URI=https://api.velocityfly.com/youtube/callback
+
+# Reddit OAuth
+REDDIT_CLIENT_ID=your_reddit_client_id
+REDDIT_CLIENT_SECRET=your_reddit_client_secret
+REDDIT_REDIRECT_URI=https://api.velocityfly.com/reddit/callback
+REDDIT_USER_AGENT=VelocityFly/1.0
+
+# Pixabay
+PIXABAY_API_KEY=your_pixabay_api_key
+
+# Google Drive
+GOOGLE_DRIVE_CREDENTIALS_JSON=path/to/credentials.json
+
+# Frontend
+FRONTEND_URL=https://velocityfly.com
+```
+
+---
+
+## 💻 Local Development Setup
+
+### Prerequisites
+- Python 3.12+
+- Node.js 18+
+- FFmpeg installed on system
+- PostgreSQL (or SQLite for local dev)
+
+### Backend Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/aryan-Patel-web/Velocityfly.com.git
+cd Velocityfly.com/backend
+
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment
+# Windows:
+venv\Scripts\activate
+# macOS / Linux:
+source venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Install Playwright browsers (for scraping features)
+python install_playwright.py
+
+# Copy environment template
+cp .env.example .env
+# Fill in your API keys in .env
+
+# Run database migrations
+python database.py
+
+# Start the backend server
+uvicorn main:app --reload --port 8000
+```
+
+Backend will be available at: `http://localhost:8000`
+API docs (Swagger): `http://localhost:8000/docs`
+
+### Frontend Setup
+
+```bash
+cd ../frontend
+
+# Install dependencies
+npm install
+
+# Copy environment template
+cp .env.example .env.local
+# Set VITE_API_URL=http://localhost:8000
+
+# Start development server
+npm run dev
+```
+
+Frontend will be available at: `http://localhost:5173`
+
+---
+
+## 🚀 Deployment Guide
+
+### Current Deployment: Render (Free Tier)
+
+Both frontend and backend are deployed on **Render's free tier** for the prototype phase.
+
+| Service | Type | URL |
+|---|---|---|
+| Frontend | Static Site | https://velocityfly.com |
+| Backend | Web Service | https://api.velocityfly.com |
+
+**Important:** Render's free tier spins down services after 15 minutes of inactivity. First request after idle may take 30–60 seconds. This is a free-tier limitation and will be resolved when moving to paid hosting.
+
+### `render.yaml` — Backend Config
+```yaml
+services:
+  - type: web
+    name: velocityfly-backend
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: velocityfly-db
+          property: connectionString
+```
+
+### Target Production Deployment (Roadmap)
+
+Once funded, the production infrastructure plan:
+
+```
+Load Balancer (Nginx)
+        │
+    ┌───┴───┐
+  App 1   App 2   (2x FastAPI instances, horizontal scale)
+        │
+   Redis Cache + BullMQ Job Queue
+        │
+   PostgreSQL (Primary + Read Replica)
+        │
+   S3-compatible Object Storage (videos, thumbnails)
+        │
+   Prometheus + Grafana (Monitoring)
+```
+
+Target: Support **100,000 concurrent users** within 12 months of receiving seed funding.
+
+---
+
+## 📊 Current Development Status
+
+| Module | Completion | Notes |
+|---|---|---|
+| YouTube Automation | 100% | Live — full content, scheduling, affiliate, analytics |
+| Instagram Automation | 100% | Live — AI content + direct publish + affiliate embed |
+| Facebook Automation | 100% | Live — AI content + page publish + affiliate embed + page analytics |
+| LinkedIn Automation | 100% | Live — AI content + publish + affiliate dashboard + post log |
+| Cross-Platform Affiliate Engine | 100% | Live — one tag, auto-embedded on every platform, 3–9% commission, 24h cookie |
+| Authentication System | 90% | JWT + Google OAuth working |
+| Landing Page / Frontend | 95% | Fully responsive, all sections done, live stats wired up |
+| Payment Integration | 30% | UPI live for Creator/Agency plans; Razorpay full rollout in progress |
+| Mobile App | 0% | Planned for Phase 2 |
+
+---
+
+## 🗺 Roadmap
+
+### Phase 1 — Foundation (Complete)
+- [x] YouTube automation complete
+- [x] Landing page and marketing site
+- [x] User auth (email + Google)
+- [x] Cross-platform affiliate engine (Amazon, 3–9% commission, 24h cookie)
+
+### Phase 2 — Platform Expansion (Complete, Q2–Q3 2026)
+- [x] Instagram automation + affiliate embed — Live
+- [x] Facebook page automation + affiliate embed — Live
+- [x] LinkedIn automation + affiliate dashboard — Live
+- [x] Mobile-responsive dashboard improvements
+- [ ] Multi-user team accounts
+- [ ] Full Razorpay payment rollout
+
+### Phase 3 — Scale & Intelligence (Q4 2026)
+- [ ] Migrate to paid cloud (AWS / GCP)
+- [ ] Redis job queue for async publishing
+- [ ] LLM caching layer (reduce inference cost)
+- [ ] A/B testing for thumbnails and titles
+- [ ] Advanced analytics with growth prediction
+
+### Phase 4 — Enterprise & API (2027)
+- [ ] White-label offering for agencies
+- [ ] Public API for third-party integrations
+- [ ] Mobile app (React Native)
+- [ ] Custom AI model fine-tuned on Indian creator data
+
+---
+
+## 💰 Pricing Plans
+
+| Plan | Price | Accounts | Highlights | Target User |
+|---|---|---|---|---|
+| Free | ₹0/mo | 1 (YouTube) | 5 AI generations/mo, 1 affiliate URL/video, up to 10 uploads/mo | Students, Beginners |
+| Creator | ₹99/mo (₹25/wk trial) | 2 (YouTube + Instagram) | Unlimited AI content, Amazon + Flipkart matching, affiliate auto-embed, AI thumbnails, scheduler, comment auto-reply | Growing YouTubers, Affiliate Marketers |
+| Agency | ₹399/mo (₹100/wk trial) | 4 (YouTube + Instagram + LinkedIn + Facebook) | Everything in Creator + Product Ads Automation, white-label dashboard, bulk upload (500/day), 24/7 priority support | Agencies, Multi-channel creators |
+| Enterprise | Custom | Unlimited, all platforms | Dedicated account manager, custom AI training, full API access, SLA | Large brands, 100+ accounts |
+
+All paid plans: 14-day free trial · UPI/Card · Cancel anytime · No credit card required for Free.
+
+---
+
+## 📈 Business Model & Revenue
+
+### Revenue Streams
+
+1. **SaaS Subscriptions** — Monthly/yearly plans (primary revenue)
+2. **AI Credits** — Pay-per-use for thumbnail generation and video creation
+3. **Agency White Label** — Agencies resell VelocityFly under their brand
+4. **API Access** — Developers integrate VelocityFly into their own tools
+5. **Affiliate Commissions** — Revenue share with creators who promote the platform
+
+### Market Opportunity
+
+- India has **500M+ social media users** growing at 15% annually
+- The global social media management software market is worth **$23.7 billion (2024)**
+- India's creator economy is projected to reach **$480 billion by 2035** (KPMG)
+- Current Indian tools in this space are either too expensive or too limited
+- VelocityFly targets the **underserved Tier 2/3 city creator market** — a segment largely ignored by western tools
+
+### Unit Economics (Projected at 10,000 Users)
+```
+Average Revenue Per User (ARPU):  ₹749/month (Pro plan)
+Monthly Recurring Revenue (MRR):  ₹74,90,000 (~₹75 Lakh)
+Annual Recurring Revenue (ARR):   ₹8.99 Crore
+LLM/API Cost per User/Month:      ~₹120
+Gross Margin (estimated):         ~84%
+```
+
+---
+
+## 🏦 Investment & Funding Goals
+
+VelocityFly is actively seeking seed investment to accelerate development, scale infrastructure, and grow the user base.
+
+### Funding Ask
+
+> **$100,000 USD (~₹90 Lakhs) for 15% equity**
+
+### Use of Funds
+
+| Category | Allocation | Amount |
+|---|---|---|
+| Cloud Infrastructure Upgrade | 25% | ₹22.5L |
+| Full-stack Developer (1 hire) | 25% | ₹22.5L |
+| Marketing & User Acquisition | 25% | ₹22.5L |
+| AI/ML Research & Optimization | 15% | ₹13.5L |
+| Legal, Compliance, IP Filing | 10% | ₹9L |
+
+### What Investors Get
+
+- **15% equity stake** in VelocityFly
+- Access to monthly performance reports and financials
+- Board observer rights
+- Preferred return on any future funding rounds
+- First right of refusal on follow-on investment
+
+### 12-Month Targets Post-Funding
+
+| Metric | Target |
+|---|---|
+| Paying Users | 5,000+ |
+| Monthly Recurring Revenue | ₹37.5L+ |
+| Platforms Fully Launched | 4 of 4 live (+ mobile app next) |
+| Team Size | 4 people |
+| App Store Launch | Android + iOS |
+
+### Why Now?
+- YouTube automation is production-ready today
+- Landing page and marketing site are live
+- Prototype validated with real users
+- Indian creator economy growing 30%+ YoY
+- No strong Indian competitor at this price point
+
+---
+
+## 🏛 Government Grant Targets
+
+VelocityFly is eligible for and actively pursuing the following Indian government funding programs:
+
+### 1. Startup India Seed Fund Scheme (SISFS)
+- **Amount:** Up to ₹20 Lakhs
+- **Eligibility:** DPIIT-recognized startup, less than 2 years old
+- **Status:** Preparing DPIIT registration
+- **Fit:** VelocityFly is a technology startup solving a validated market problem for Indian SMBs
+
+### 2. MeitY Startup Hub (MSH)
+- **Amount:** Up to ₹25 Lakhs + mentorship
+- **Eligibility:** Indian tech startup working in digital economy
+- **Status:** Eligible — AI + social media automation fits the digital economy mandate
+- **Fit:** Platform directly supports India's Digital India and creator economy vision
+
+### 3. Atal Innovation Mission (AIM) — Atal Incubation Centre
+- **Amount:** ₹10 Lakhs + incubation support (office space, mentors, networks)
+- **Status:** Eligible for AIC application after DPIIT registration
+- **Fit:** Solving a real problem for Indian youth and small businesses with AI innovation
+
+### 4. NASSCOM 10,000 Startups Program
+- **Amount:** ₹10 Lakh grant + accelerator access
+- **Eligibility:** Early-stage Indian tech startup
+- **Fit:** Platform is squarely in NASSCOM's priority areas (AI, SaaS, creator economy)
+
+### 5. Bihar Startup Policy (State Grant)
+- **Amount:** Up to ₹10 Lakhs for Bihar-based founders
+- **Status:** Founder is from Bihar — eligible for state-level support
+- **Fit:** Bihar government has been expanding its tech startup ecosystem since 2022
+
+### Total Grant Potential: ₹75 Lakhs+ across schemes
+
+---
+
+## 👨‍💻 Founder
+
+<div align="center">
+
+### Aryan Patel
+**Founder & Full-Stack Developer, VelocityFly**
+
+</div>
+
+I am a computer science student building VelocityFly as a solo founder. The entire platform — backend (Python/FastAPI), frontend (React/Vite), AI integration, OAuth flows, video processing pipeline, and deployment — has been designed and coded by me from scratch.
+
+I started this project because I saw firsthand how much time Indian creators waste on manual social media work. I believe automation should be accessible to a student in Patna, a shop owner in Surat, and a YouTuber in Nagpur — not just to agencies in Mumbai.
+
+**Background:**
+- B.Tech Computer Science (ongoing)
+- Built 95% of YouTube automation module independently
+- Self-taught in Python, FastAPI, React, LLM API integration, OAuth, FFmpeg, and cloud deployment
+- Applying to IIT Patna iNext Lab for research internship to formally study scaling architecture
+
+**Vision:**
+> Make VelocityFly the default automation tool for the next 10 million Indian creators who join social media over the next 5 years.
+
+---
+
+## 📬 Contact
+
+| Channel | Details |
+|---|---|
+| 📧 Email | patelaryan77462@gmail.com |
+| 📱 Phone / WhatsApp | +91 91407 82212 |
+| 🌐 Frontend | https://velocityfly.com |
+| ⚙️ Backend API | https://api.velocityfly.com/ |
+| 💻 GitHub | https://github.com/aryan-Patel-web/Velocityfly.com |
+
+---
+
+## 📄 License
+
+This project is **proprietary software**. All rights reserved.
+
+© 2026 Aryan Patel / VelocityFly. Unauthorized copying, distribution, or commercial use of this code without explicit written permission from the founder is prohibited.
+
+---
+
+<div align="center">
+
+**Built with ❤️ in India, for India**
+
+*🇮🇳 Proudly Made in India — Designed for the next generation of Indian creators*
+
+### Start Publishing Today. Earn From Day 1.
+
+[![Try It Live](https://img.shields.io/badge/🌐_Try_It_Live-velocityfly.com-FF6B35?style=for-the-badge)](https://velocityfly.com)
+
+</div>
