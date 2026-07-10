@@ -35,7 +35,7 @@
 ```python
 aryan_patel = {
   "🎭  roles"        : ["MLOps Engineer", "AI/ML Developer", "GenAI Engineer", "Full-Stack Dev", "Solo Founder"],
-  "🚀  startup"      : "VelocityFly AI — 70K+ views · 600+ auto-published shorts · 140+ affiliate clicks · 0 paid ads",
+  "🚀  startup"      : "VelocityFly AI — 70K+ views · 600+ auto-published posts · 140+ affiliate clicks · 0 paid ads",
   "🔥  building"     : ["EKS + K8s deployments", "Prometheus + Grafana stacks", "Advanced RAG & Multi-Agent AI"],
   "⚙️  mlops_stack"  : ["DVC", "MLflow", "DagsHub", "Docker", "Kubernetes", "EKS", "ECR", "GitHub Actions"],
   "🧠  ai_stack"     : ["Scikit-learn", "TensorFlow", "LangChain", "ChromaDB", "Groq", "CrewAI", "LangGraph"],
@@ -179,22 +179,22 @@ Hallucination Reduction
 
 ---
 
-## 🚀 FEATURED: VelocityFly AI — AI SaaS Startup
+## 🚀 FEATURED: VelocityFly AI — Multi-Platform Content & Affiliate SaaS
 
-> **India's first AI YouTube automation + affiliate monetization platform**
+> **India's first AI content automation + affiliate monetization platform — live across 4 social platforms**
 > [`velocityfly.com`](https://velocityfly.com) · *Solo Founder · Sep 2025 – Present*
 
 <table width="100%">
 <tr>
-<td align="center" width="20%"><b>600+</b><br/><sub>Shorts/Posts Auto-Published</sub></td>
+<td align="center" width="20%"><b>600+</b><br/><sub>Posts Auto-Published</sub></td>
 <td align="center" width="20%"><b>140+</b><br/><sub>Affiliate Clicks · 0 Ads</sub></td>
 <td align="center" width="20%"><b>10+</b><br/><sub>Live Users</sub></td>
-<td align="center" width="20%"><b>4</b><br/><sub>Platforms Live</sub></td>
-<td align="center" width="20%"><b>20+</b><br/><sub>Posts Automated/Platform</sub></td>
+<td align="center" width="20%"><b>4/6</b><br/><sub>Platforms Live</sub></td>
+<td align="center" width="20%"><b>70K+</b><br/><sub>Organic Views</sub></td>
 </tr>
 </table>
 
-**🚀 Post Once. Earn Forever. — Start Publishing Today, Earn From Day 1.**
+**🚀 Post Once. Publish Everywhere. Earn Forever.**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -202,8 +202,39 @@ Hallucination Reduction
 ![Mistral](https://img.shields.io/badge/Mistral%20LLM-FF7000?style=flat-square)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs%20TTS-000000?style=flat-square)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square)
-![Google OAuth](https://img.shields.io/badge/Google%20OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
+![Meta OAuth](https://img.shields.io/badge/Meta%20%26%20Google%20OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
+![LinkedIn API](https://img.shields.io/badge/LinkedIn%20API-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+**🌐 Platform Status — 4 Live, 2 In Development:**
+
+| Platform | Status | What's Live |
+|----------|--------|--------------|
+| ▶ YouTube | 🟢 **Live** | AI titles/descriptions/thumbnails, comment auto-reply, live thumbnail updater |
+| 📸 Instagram | 🟢 **Live** | Dual OAuth (Facebook Login + IG Direct Login), Reels upload, text + affiliate 2-story parallel publishing, webhook-driven auto-DM reply |
+| 📘 Facebook | 🟢 **Live** | Dynamic affiliate content blocks, page vs. IG business account routing, synced Story publishing |
+| 🔗 LinkedIn | 🟢 **Live** | Org-post publishing with personal-profile fallback, professional auto-captioning |
+| 💬 WhatsApp | 🟡 **In Development** | Broadcast automation for affiliate drops, Twilio notification pipeline (prototyped) |
+| ✕ Twitter / X | 🟡 **In Development** | Thread automation with embedded affiliate links, cross-post repurposing |
+
+**🔑 Core Capabilities:**
+
+| Capability | What It Does |
+|---|---|
+| 🔗 **Multi-Platform Publish** | One upload auto-adapted & published to YouTube, Instagram, Facebook & LinkedIn simultaneously |
+| 💰 **Affiliate Engine** | Live Amazon/Flipkart product fetch + dynamic affiliate URL injection per platform |
+| 📅 **Smart Scheduler** | Calendar-based queueing with IST-aware timezone handling for hands-free daily publishing |
+| 🔄 **Content Repurposing** | Single video/asset auto-reformatted into Shorts, Reels, Stories & platform-tuned captions |
+| 📩 **Stories & DM Automation** | Auto text/affiliate stories on Instagram & Facebook + webhook-driven DM auto-reply |
+| 🔐 **Dual OAuth Routing** | Facebook Login vs. Instagram Direct Login, isolated token storage, long-lived token refresh |
+
+**💳 Subscription Model:**
+
+| Plan | Price | What's Included |
+|------|-------|-------------------|
+| **Starter** | ₹99/mo | LinkedIn · 50 posts/mo |
+| **Creator** | ₹199/mo | Instagram + Facebook · 150 posts/mo |
+| **Pro** | ₹299/mo | All 4 live platforms · 400 posts/mo |
 
 **🎬 Demo Videos & Live Channels:**
 
@@ -214,7 +245,7 @@ Hallucination Reduction
 | [▶ Image-to-Video Demo](https://youtube.com/shorts/oaIXvEHIUXE) | Slideshow auto-creation pipeline |
 | [📺 Channel 1 — AI Testing](https://www.youtube.com/@IIIT_Testing/shorts) | Live automated test channel |
 | [📺 Channel 2 — Luxury Facts](https://www.youtube.com/@RandomLuxuryFacts/posts) | Live affiliate content channel |
-| [🔗 Demo Affiliate URL (velocityfly-21)](https://www.amazon.in/s?k=Titan+watch&tag=velocityfly-21) | Live Amazon Associates tag demo |
+| [🔗 Try the Affiliate Link (velocityfly-21)](https://www.amazon.in/s?k=headphones&tag=velocityfly-21) | Live Amazon Associates tag — click through to see it in action |
 | [🌐 Live Platform](https://velocityfly.com) | Try the platform live |
 
 **Two Complete User Flows:**
@@ -229,7 +260,7 @@ Hallucination Reduction
 3. Select Amazon or Flipkart + product category
 4. App fetches product via official API (image, price, URL)
 5. Builds affiliate URL from stored ID (set once, saved in DB)
-6. Auto-uploads to YouTube with AI content + affiliate link
+6. Auto-publishes to YouTube, Instagram, Facebook & LinkedIn with affiliate link embedded
 
 </td>
 <td width="50%" valign="top">
@@ -238,29 +269,19 @@ Hallucination Reduction
 1. Enter product category (earbuds, laptop, skincare…)
 2. Select Amazon / Flipkart + price filter
 3. App fetches product images, title, price via API
-4. Auto-creates promo slideshow video with price overlays
-5. Embeds affiliate URL from stored ID in description
-6. Auto-uploads YouTube Short on schedule — fully hands-free
+4. Auto-creates promo slideshow / story with price overlays
+5. Embeds affiliate URL from stored ID across every platform
+6. Scheduler auto-publishes on a recurring cadence — fully hands-free
 
 </td>
 </tr>
 </table>
 
-**🔑 Key Features:**
+**🔑 Additional Features:**
 - 🤖 AI comment auto-reply · Live thumbnail updater
 - 🗣️ Multi-language TTS — Hindi, Hinglish, Tamil, Telugu, Bengali
-- 📊 Analytics dashboard: last 28 days views, likes, subscribers, per-video
+- 📊 Analytics dashboard: last 28 days views, likes, subscribers, per-post performance across all live platforms
 - 🖼️ AI thumbnail studio (3 styles/video) · Image-to-video pipeline
-- 🌐 **Multi-Platform Live** — one Amazon affiliate tag auto-embedded across YouTube → Instagram → Facebook → LinkedIn simultaneously
-
-**Platform Status:**
-
-| Platform | Status |
-|----------|--------|
-| ▶ YouTube | ✅ 100% Live |
-| 📸 Instagram | ✅ 100% Live |
-| 📘 Facebook | ✅ 100% Live |
-| 🔗 LinkedIn | ✅ 100% Live |
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/aryan-Patel-web/Velocityfly.com)
 [![Live](https://img.shields.io/badge/🌐%20Live%20Platform-velocityfly.com-FF6B35?style=for-the-badge)](https://velocityfly.com)
@@ -542,7 +563,7 @@ NLP sentiment pipeline using **Word2Vec embeddings + RandomForest**. Full prepro
 | 🥇 | **Bajaj HackRx 2025 — Rank 88** | National GenAI Hackathon · Production RAG system · Score: 694 |
 | ⚡ | **Nextwave GenAI Hackathon — Team Lead** | 48-hour GenAI Hackathon, Noida · Built FloatChat AI over 50TB+ ARGO datasets |
 | 💻 | **1,650+ GitHub Commits** | Sustained engineering across ML, MLOps, Full-Stack, GenAI over 12 months |
-| 🚀 | **Solo Founder — VelocityFly AI** | 70K+ views · 600+ auto-published shorts · 140+ affiliate clicks · 0 paid ads |
+| 🚀 | **Solo Founder — VelocityFly AI** | 70K+ views · 600+ auto-published posts · 140+ affiliate clicks · 0 paid ads · live on 4 platforms |
 | 🔬 | **2 Research & AI Internships** | QNu Labs (Indian Army/Navy QKDN) · IIIT Nagpur (Geospatial AI for NHAI) |
 | 📐 | **SINE IIT Bombay Incubation** | Active application — SINE/INCU/2026/06/00044 |
 
