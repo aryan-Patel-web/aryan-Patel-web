@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,29&text=Aryan%20Patel&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=36&desc=MLOps%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Generative%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=58&textBg=false"/>
+﻿<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,29&text=Aryan%20Patel&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=36&desc=MLOps%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Generative%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=58&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=900&lines=Solo+Founder+%40+VelocityFly+AI+%F0%9F%9A%80+%7C+70K%2B+Organic+YT+Views;Building+Production+ML+Pipelines+%E2%9A%99%EF%B8%8F;MLOps+%7C+DVC+%7C+MLflow+%7C+Kubernetes+%7C+Prometheus+%F0%9F%9A%80;Deploying+AI+on+AWS+EKS+%2B+ECR+%2B+EC2+%E2%98%81%EF%B8%8F;Crafting+Generative+AI+%26+RAG+Solutions+%F0%9F%A7%A0;Top+1%25+Amazon+ML+Challenge+%7C+183K%2B+Participants+%F0%9F%8F%86;Data+%E2%86%92+Model+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Scale+%F0%9F%93%88" alt="Typing SVG" />
@@ -35,14 +35,14 @@
 ```python
 aryan_patel = {
   "🎭  roles"        : ["MLOps Engineer", "AI/ML Developer", "GenAI Engineer", "Full-Stack Dev", "Solo Founder"],
-  "🚀  startup"      : "VelocityFly AI — 70K+ views · 600+ auto-published posts · 140+ affiliate clicks · 0 paid ads",
+  "🚀  startup"      : "VelocityFly AI  -  70K+ views · 600+ auto-published posts · 140+ affiliate clicks · 0 paid ads",
   "🔥  building"     : ["EKS + K8s deployments", "Prometheus + Grafana stacks", "Advanced RAG & Multi-Agent AI"],
   "⚙️  mlops_stack"  : ["DVC", "MLflow", "DagsHub", "Docker", "Kubernetes", "EKS", "ECR", "GitHub Actions"],
   "🧠  ai_stack"     : ["Scikit-learn", "TensorFlow", "LangChain", "ChromaDB", "Groq", "CrewAI", "LangGraph"],
   "☁️  cloud"        : ["AWS S3", "EC2", "ECR", "EKS", "IAM", "CloudFormation", "LoadBalancer"],
   "📡  monitoring"   : ["Prometheus", "Grafana", "Flask Metrics", "Custom Dashboards", "EC2 Observability"],
   "🏆  achievements" : ["Top 1% Amazon ML Challenge (183K+)", "Bajaj HackRx Rank 88", "Nextwave GenAI Team Lead"],
-  "⚡  fun_fact"     : "I break things fast so I can build them better — every failed experiment becomes a repo 😉"
+  "⚡  fun_fact"     : "I break things fast so I can build them better  -  every failed experiment becomes a repo 😉"
 }
 ```
 
@@ -140,7 +140,7 @@ Hallucination Reduction
 
 ## 💼 Experience & Work History
 
-### 🔬 AI/ML Intern — AI Autopilot · QNu Labs *(May 2026 – Present · Remote)*
+### 🔬 AI/ML Intern  -  AI Autopilot · QNu Labs *(May 2026 – Present · Remote)*
 > **Quantum Cybersecurity vendor for Indian Army & Navy · Bengaluru**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -150,13 +150,13 @@ Hallucination Reduction
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-- 🤖 Building AI Autopilot for live **QKDN** deployed with **Indian Army & Navy** across 3+ active network nodes — LLM copilot agent reducing manual provisioning by ~60% via LangChain + Ollama
+- 🤖 Building AI Autopilot for live **QKDN** deployed with **Indian Army & Navy** across 3+ active network nodes  -  LLM copilot agent reducing manual provisioning by ~60% via LangChain + Ollama
 - 📊 IsolationForest anomaly detection on QBER/SKR quantum key distribution network streams with automated alerting
 - 📄 Automated PDF reporting pipeline with FastAPI + React dashboard for real-time network analytics
 
 ---
 
-### 🗺️ Project Intern — Geospatial AI for NHAI · IIIT Nagpur *(Mar 2026 – May 2026 · Remote)*
+### 🗺️ Project Intern  -  Geospatial AI for NHAI · IIIT Nagpur *(Mar 2026 – May 2026 · Remote)*
 > **Under Dr. Neha Kasture**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -164,12 +164,12 @@ Hallucination Reduction
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square)
 
-- 🛣️ Developed automated geospatial road-marking system for **NHAI** — KML pipeline with road curvature detection and geodesic heading computation for polygon creation on curved roads
+- 🛣️ Developed automated geospatial road-marking system for **NHAI**  -  KML pipeline with road curvature detection and geodesic heading computation for polygon creation on curved roads
 - 🌐 Built production-ready Streamlit web app with map visualization and automated KML/Excel reporting delivered to **PWD/NHAI** government clients
 
 ---
 
-### 🔭 AI Research Intern · IISER Bhopal — Dept of Data Science *(2 months · Remote)*
+### 🔭 AI Research Intern · IISER Bhopal  -  Dept of Data Science *(2 months · Remote)*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ML Research](https://img.shields.io/badge/ML%20Research-blueviolet?style=flat-square)
@@ -179,9 +179,9 @@ Hallucination Reduction
 
 ---
 
-## 🚀 FEATURED: VelocityFly AI — Multi-Platform Content & Affiliate SaaS
+## 🚀 FEATURED: VelocityFly AI  -  Multi-Platform Content & Affiliate SaaS
 
-> **India's first AI content automation + affiliate monetization platform — live across 4 social platforms**
+> **India's first AI content automation + affiliate monetization platform  -  live across 4 social platforms**
 > [`velocityfly.com`](https://velocityfly.com) · *Solo Founder · Sep 2025 – Present*
 
 <table width="100%">
@@ -206,7 +206,7 @@ Hallucination Reduction
 ![LinkedIn API](https://img.shields.io/badge/LinkedIn%20API-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-**🌐 Platform Status — 4 Live, 2 In Development:**
+**🌐 Platform Status  -  4 Live, 2 In Development:**
 
 | Platform | Status | What's Live |
 |----------|--------|--------------|
@@ -243,9 +243,9 @@ Hallucination Reduction
 | [▶ Full Platform Demo](https://www.youtube.com/watch?v=4ekTDazr1xg) | Complete walkthrough of the platform |
 | [▶ Affiliate Video Demo](https://youtube.com/shorts/gWOB0PWRI2A) | Auto-generated affiliate YouTube Short |
 | [▶ Image-to-Video Demo](https://youtube.com/shorts/oaIXvEHIUXE) | Slideshow auto-creation pipeline |
-| [📺 Channel 1 — AI Testing](https://www.youtube.com/@IIIT_Testing/shorts) | Live automated test channel |
-| [📺 Channel 2 — Luxury Facts](https://www.youtube.com/@RandomLuxuryFacts/posts) | Live affiliate content channel |
-| [🔗 Try the Affiliate Link (velocityfly-21)](https://www.amazon.in/s?k=headphones&tag=velocityfly-21) | Live Amazon Associates tag — click through to see it in action |
+| [📺 Channel 1  -  AI Testing](https://www.youtube.com/@IIIT_Testing/shorts) | Live automated test channel |
+| [📺 Channel 2  -  Luxury Facts](https://www.youtube.com/@RandomLuxuryFacts/posts) | Live affiliate content channel |
+| [🔗 Try the Affiliate Link (velocityfly-21)](https://www.amazon.in/s?k=headphones&tag=velocityfly-21) | Live Amazon Associates tag  -  click through to see it in action |
 | [🌐 Live Platform](https://velocityfly.com) | Try the platform live |
 
 **Two Complete User Flows:**
@@ -254,7 +254,7 @@ Hallucination Reduction
 <tr>
 <td width="50%" valign="top">
 
-**🎥 User Type 1 — Has a Video**
+**🎥 User Type 1  -  Has a Video**
 1. Upload existing video to VelocityFly
 2. AI generates title, description, hashtags, thumbnail
 3. Select Amazon or Flipkart + product category
@@ -265,13 +265,13 @@ Hallucination Reduction
 </td>
 <td width="50%" valign="top">
 
-**🚀 User Type 2 — No Video Yet**
+**🚀 User Type 2  -  No Video Yet**
 1. Enter product category (earbuds, laptop, skincare…)
 2. Select Amazon / Flipkart + price filter
 3. App fetches product images, title, price via API
 4. Auto-creates promo slideshow / story with price overlays
 5. Embeds affiliate URL from stored ID across every platform
-6. Scheduler auto-publishes on a recurring cadence — fully hands-free
+6. Scheduler auto-publishes on a recurring cadence  -  fully hands-free
 
 </td>
 </tr>
@@ -279,7 +279,7 @@ Hallucination Reduction
 
 **🔑 Additional Features:**
 - 🤖 AI comment auto-reply · Live thumbnail updater
-- 🗣️ Multi-language TTS — Hindi, Hinglish, Tamil, Telugu, Bengali
+- 🗣️ Multi-language TTS  -  Hindi, Hinglish, Tamil, Telugu, Bengali
 - 📊 Analytics dashboard: last 28 days views, likes, subscribers, per-post performance across all live platforms
 - 🖼️ AI thumbnail studio (3 styles/video) · Image-to-video pipeline
 
@@ -290,7 +290,7 @@ Hallucination Reduction
 
 ## ⚙️ MLOps Projects
 
-### 🏆 Project #1 — MLOps Vehicle Insurance End-to-End Pipeline
+### 🏆 Project #1  -  MLOps Vehicle Insurance End-to-End Pipeline
 
 > *Raw data in MongoDB → 6-stage ML pipeline → S3 model registry → Docker → ECR → EC2 → Live API*
 
@@ -319,7 +319,7 @@ MongoDB Atlas ──► ETL ──► Data Validation ──► Feature Engineer
 | Deployment | **AWS EC2 · Live** |
 
 - 📦 6-stage modular pipeline with typed `ConfigEntity` + `ArtifactEntity` contracts
-- 🔒 Model promotion gate — only promotes if new model beats S3 baseline by **>0.02**
+- 🔒 Model promotion gate  -  only promotes if new model beats S3 baseline by **>0.02**
 - 🔄 Zero-touch CI/CD: Git push → Docker → ECR → EC2 → Live, automated
 - 🛠️ Custom logger & exception handler with file + line-level tracebacks
 
@@ -328,7 +328,7 @@ MongoDB Atlas ──► ETL ──► Data Validation ──► Feature Engineer
 
 ---
 
-### 🔥 Project #2 — Production Sentiment Analysis · Full MLOps Capstone
+### 🔥 Project #2  -  Production Sentiment Analysis · Full MLOps Capstone
 
 > *NLP text data → DVC → MLflow → pytest CI → Docker → ECR → AWS EKS → Prometheus + Grafana*
 
@@ -358,11 +358,11 @@ RAW TEXT DATA ──► DVC Pipeline (dvc repro) ──► MLflow: params / metr
 | Data Versioning | **DVC + AWS S3** | Full pipeline reproducibility with `dvc repro` |
 | Experiment Tracking | **MLflow + DagsHub** | All runs, params, metrics logged & compared |
 | Model Registry | **MLflow Registry** | None → Staging → Production lifecycle |
-| CI Quality Gate | **pytest** | Unit tests before every build — broken code never ships |
+| CI Quality Gate | **pytest** | Unit tests before every build  -  broken code never ships |
 | Orchestration | **AWS EKS + kubectl** | Rolling deploys, health checks, managed nodes |
 | Metrics | **Prometheus (EC2)** | Scrapes Flask `/metrics` every 15s: req count, latency, errors |
 | Dashboards | **Grafana (EC2)** | Real-time visual dashboards with custom alerts |
-| Infra as Code | **CloudFormation via eksctl** | EKS + nodegroups as stacks — `eksctl delete` cleans everything |
+| Infra as Code | **CloudFormation via eksctl** | EKS + nodegroups as stacks  -  `eksctl delete` cleans everything |
 
 [![GitHub](https://img.shields.io/badge/📂%20View%20Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aryan-Patel-web/production-sentiment-analysis-end-to-end-mlops)
 
@@ -381,7 +381,7 @@ RAW TEXT DATA ──► DVC Pipeline (dvc repro) ──► MLflow: params / metr
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
 
-Full-featured rental platform — listing, booking, wishlist, map-based search. Secure JWT auth, host dashboards, Cloudinary image pipeline, fully responsive UI.
+Full-featured rental platform  -  listing, booking, wishlist, map-based search. Secure JWT auth, host dashboards, Cloudinary image pipeline, fully responsive UI.
 
 `REST API` · `Auth middleware` · `Optimized DB queries`
 
@@ -403,7 +403,7 @@ Real-time rider–driver matching, fare calculation, live tracking via Socket.IO
 <tr>
 <td width="50%" valign="top">
 
-### 📝 VedaAI — AI Assignment Generation
+### 📝 VedaAI  -  AI Assignment Generation
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FF6B35?style=flat-square)
@@ -417,7 +417,7 @@ Queue-based AI assignment generation, BullMQ async processing, PDF delivery via 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Velocity-AI Funds — PDF to Excel
+### ⚡ Velocity-AI Funds  -  PDF to Excel
 
 ![LLM](https://img.shields.io/badge/LLM%20+%20OCR-orange?style=flat-square)
 ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-blue?style=flat-square)
@@ -439,7 +439,7 @@ LLM + OCR extraction engine with **94% structured field accuracy** and **<15s en
 <tr>
 <td width="50%" valign="top">
 
-### 🌊 FloatChat AI — Ocean Intelligence Assistant
+### 🌊 FloatChat AI  -  Ocean Intelligence Assistant
 > *Nextwave GenAI Hackathon · 48 hours · Team Lead · Noida*
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
@@ -456,7 +456,7 @@ RAG-based multimodal chatbot over **50TB+ ARGO ocean datasets**. Achieves **90% 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 PitchGroww-AI — Startup Pitch Analyzer
+### 🚀 PitchGroww-AI  -  Startup Pitch Analyzer
 
 ![CrewAI](https://img.shields.io/badge/CrewAI-blueviolet?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
@@ -509,7 +509,7 @@ LSTM trained on **60-step sequence windows** for next-day close price prediction
 </td>
 <td width="50%" valign="top">
 
-### 💰 Customer Salary Prediction — ANN
+### 💰 Customer Salary Prediction  -  ANN
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -524,7 +524,7 @@ End-to-end ANN regression for salary prediction. Full preprocessing pipeline (en
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ Amazon ML Challenge — Multimodal Pipeline
+### 🛍️ Amazon ML Challenge  -  Multimodal Pipeline
 
 ![LightGBM](https://img.shields.io/badge/LightGBM-01A9DB?style=flat-square)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
@@ -559,13 +559,13 @@ NLP sentiment pipeline using **Word2Vec embeddings + RandomForest**. Full prepro
 
 | | Achievement | Detail |
 |---|---|---|
-| 🏆 | **Amazon ML Challenge 2025 — Top 1%** | Top 1% among **183,000+** participants · Multimodal ML product attribute extraction |
-| 🥇 | **Bajaj HackRx 2025 — Rank 88** | National GenAI Hackathon · Production RAG system · Score: 694 |
-| ⚡ | **Nextwave GenAI Hackathon — Team Lead** | 48-hour GenAI Hackathon, Noida · Built FloatChat AI over 50TB+ ARGO datasets |
+| 🏆 | **Amazon ML Challenge 2025  -  Top 1%** | Top 1% among **183,000+** participants · Multimodal ML product attribute extraction |
+| 🥇 | **Bajaj HackRx 2025  -  Rank 88** | National GenAI Hackathon · Production RAG system · Score: 694 |
+| ⚡ | **Nextwave GenAI Hackathon  -  Team Lead** | 48-hour GenAI Hackathon, Noida · Built FloatChat AI over 50TB+ ARGO datasets |
 | 💻 | **1,650+ GitHub Commits** | Sustained engineering across ML, MLOps, Full-Stack, GenAI over 12 months |
-| 🚀 | **Solo Founder — VelocityFly AI** | 70K+ views · 600+ auto-published posts · 140+ affiliate clicks · 0 paid ads · live on 4 platforms |
+| 🚀 | **Solo Founder  -  VelocityFly AI** | 70K+ views · 600+ auto-published posts · 140+ affiliate clicks · 0 paid ads · live on 4 platforms |
 | 🔬 | **2 Research & AI Internships** | QNu Labs (Indian Army/Navy QKDN) · IIIT Nagpur (Geospatial AI for NHAI) |
-| 📐 | **SINE IIT Bombay Incubation** | Active application — SINE/INCU/2026/06/00044 |
+| 📐 | **SINE IIT Bombay Incubation** | Active application  -  SINE/INCU/2026/06/00044 |
 
 ---
 
@@ -754,7 +754,7 @@ NLP sentiment pipeline using **Word2Vec embeddings + RandomForest**. Full prepro
 
 **Open to full-time roles · freelance collabs · interesting AI/ML problems**
 
-⭐ *Star any repo you found useful — it genuinely means a lot!* ⭐
+⭐ *Star any repo you found useful  -  it genuinely means a lot!* ⭐
 
 </div>
 
