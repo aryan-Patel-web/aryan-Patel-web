@@ -15,6 +15,12 @@
 
 ---
 
+<p align="center">
+  <a href="https://portfolio-aryan-pateldev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Aryan_Patel-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
 ## 🚀 At a Glance
 
 <table align="center" width="100%">
@@ -75,8 +81,6 @@ aryan_patel = {
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-
-[![🚀🚀 Portfolio | Aryan Patel](https://img.shields.io/badge/Portfolio-Aryan_Patel-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-aryan-pateldev.vercel.app/)
 
 ---
 
