@@ -1,4 +1,4 @@
-﻿<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,29&text=Aryan%20Patel&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=36&desc=MLOps%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Generative%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=58&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,29&text=Aryan%20Patel&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=36&desc=MLOps%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Generative%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=58&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=900&lines=Solo+Founder+%40+VelocityFly+AI+%F0%9F%9A%80+%7C+70K%2B+Organic+YT+Views;Building+Production+ML+Pipelines+%E2%9A%99%EF%B8%8F;MLOps+%7C+DVC+%7C+MLflow+%7C+Kubernetes+%7C+Prometheus+%F0%9F%9A%80;Deploying+AI+on+AWS+EKS+%2B+ECR+%2B+EC2+%E2%98%81%EF%B8%8F;Crafting+Generative+AI+%26+RAG+Solutions+%F0%9F%A7%A0;Top+1%25+Amazon+ML+Challenge+%7C+183K%2B+Participants+%F0%9F%8F%86;Data+%E2%86%92+Model+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Scale+%F0%9F%93%88" alt="Typing SVG" />
@@ -701,19 +701,6 @@ NLP sentiment pipeline using **Word2Vec embeddings + RandomForest**. Full prepro
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aryan-Patel-web&theme=vue&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-patel-web&show_icons=true&theme=vue&hide_border=true&locale=en" alt="GitHub Stats" width="49%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-Patel-web&layout=compact&theme=vue&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" width="49%"/>
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-Patel-web&theme=vue&radius=10" alt="Activity Graph"/>
-</p>
-
----
-
-<p align="center">
   <a href="https://www.linkedin.com/in/aryan-patel-97396524b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
@@ -731,6 +718,19 @@ NLP sentiment pipeline using **Word2Vec embeddings + RandomForest**. Full prepro
   <a href="https://wa.me/919140782212" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Message%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aryan-Patel-web&theme=vue&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-patel-web&show_icons=true&theme=vue&hide_border=true&locale=en" alt="GitHub Stats" width="49%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-Patel-web&layout=compact&theme=vue&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" width="49%"/>
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-Patel-web&theme=vue&radius=10" alt="Activity Graph"/>
 </p>
 
 <br/>
