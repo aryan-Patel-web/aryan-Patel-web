@@ -203,6 +203,15 @@ Hallucination Reduction
 </tr>
 </table>
 
+### 🏅 Accepted into 4 Startup Programs
+
+| Program | Recognition |
+|---|---|
+| ![Anthropic](https://img.shields.io/badge/Claude%20for%20Startups-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white) | Selected into Anthropic's startup program |
+| ![OpenAI](https://img.shields.io/badge/OpenAI%20Startup%20Community-000000?style=for-the-badge&logo=openai&logoColor=white) | Welcomed into OpenAI's startup community |
+| ![MongoDB](https://img.shields.io/badge/MongoDB%20for%20Startups-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | Accelerator partner  -  credits & support |
+| ![Zendesk](https://img.shields.io/badge/Zendesk%20Startup%20Program-03363D?style=for-the-badge&logo=zendesk&logoColor=white) | Approved  -  6 months free Zendesk |
+
 **🚀 Post Once. Publish Everywhere. Earn Forever.**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -388,7 +397,6 @@ RAW TEXT DATA ──► DVC Pipeline (dvc repro) ──► MLflow: params / metr
 | 🚀 | **Solo Founder  -  VelocityFly AI** | 70K+ views · 600+ auto-published posts · 140+ affiliate clicks · 0 paid ads · live on 4 platforms |
 | 🔬 | **2 Research & AI Internships** | QNu Labs (Indian Army/Navy QKDN) · IIIT Nagpur (Geospatial AI for NHAI) |
 | 📐 | **SINE IIT Bombay Incubation** | Active application  -  SINE/INCU/2026/06/00044 |
-| 🌟 | **VelocityFly AI  -  Accepted into 4 Startup Programs** | Claude for Startups (Anthropic) · OpenAI Startup Community · MongoDB for Startups · Zendesk Startup Program |
 
 ---
 
