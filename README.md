@@ -73,6 +73,11 @@ aryan_patel = {
   </a>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aryan-Patel-web&theme=vue&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-patel-web&show_icons=true&theme=vue&hide_border=true&locale=en" alt="GitHub Stats" width="49%"/>
+</p>
+
 ---
 
 <table align="center" width="100%">
@@ -722,10 +727,6 @@ NLP sentiment pipeline using **Word2Vec embeddings + RandomForest**. Full prepro
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aryan-Patel-web&theme=vue&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-patel-web&show_icons=true&theme=vue&hide_border=true&locale=en" alt="GitHub Stats" width="49%"/>
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-Patel-web&layout=compact&theme=vue&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" width="49%"/>
 </p>
