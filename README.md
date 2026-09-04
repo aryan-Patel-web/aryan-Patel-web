@@ -28,9 +28,12 @@
 </tr>
 </table>
 
----
-[![🚀🚀 Portfolio | Aryan Patel](https://img.shields.io/badge/Portfolio-Aryan_Patel-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-aryan-pateldev.vercel.app/)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aryan-Patel-web&theme=vue&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-patel-web&show_icons=true&theme=vue&hide_border=true&locale=en" alt="GitHub Stats" width="49%"/>
+</p>
 
+---
 
 ```python
 aryan_patel = {
@@ -73,10 +76,7 @@ aryan_patel = {
   </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aryan-Patel-web&theme=vue&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-patel-web&show_icons=true&theme=vue&hide_border=true&locale=en" alt="GitHub Stats" width="49%"/>
-</p>
+[![🚀🚀 Portfolio | Aryan Patel](https://img.shields.io/badge/Portfolio-Aryan_Patel-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-aryan-pateldev.vercel.app/)
 
 ---
 
