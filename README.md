@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,29&text=Aryan%20Patel&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=36&desc=MLOps%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Generative%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=58&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=900&lines=Solo+Founder+%40+VelocityFly+AI+%F0%9F%9A%80+%7C+70K%2B+Organic+YT+Views;Building+Production+ML+Pipelines+%E2%9A%99%EF%B8%8F;MLOps+%7C+DVC+%7C+MLflow+%7C+Kubernetes+%7C+Prometheus+%F0%9F%9A%80;Deploying+AI+on+AWS+EKS+%2B+ECR+%2B+EC2+%E2%98%81%EF%B8%8F;Crafting+Generative+AI+%26+RAG+Solutions+%F0%9F%A7%A0;Top+1%25+Amazon+ML+Challenge+%7C+183K%2B+Participants+%F0%9F%8F%86;Data+%E2%86%92+Model+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Scale+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=900&lines=%F0%9F%A5%87+1st+Prize+%E2%82%B975%2C000+%40+QNu+Labs+SparQ+2026+%7C+Rank+1+Among+All+Interns;Solo+Founder+%40+VelocityFly+AI+%F0%9F%9A%80+%7C+70K%2B+Organic+YT+Views;Building+Production+ML+Pipelines+%E2%9A%99%EF%B8%8F;MLOps+%7C+DVC+%7C+MLflow+%7C+Kubernetes+%7C+Prometheus+%F0%9F%9A%80;Deploying+AI+on+AWS+EKS+%2B+ECR+%2B+EC2+%E2%98%81%EF%B8%8F;Crafting+Generative+AI+%26+RAG+Solutions+%F0%9F%A7%A0;Top+1%25+Amazon+ML+Challenge+%7C+183K%2B+Participants+%F0%9F%8F%86;Data+%E2%86%92+Model+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Scale+%F0%9F%93%88" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,6 +11,13 @@
   <img src="https://img.shields.io/badge/🎯%20Focus-MLOps%20%7C%20GenAI%20%7C%20Full--Stack-blueviolet?style=flat-square"/>&nbsp;
   <img src="https://img.shields.io/badge/✅%20Open%20To-Roles%20%26%20Collaborations-brightgreen?style=flat-square"/>&nbsp;
   <img src="https://img.shields.io/badge/🔥%20Building-VelocityFly%20AI%20SaaS-orange?style=flat-square"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇%201st%20Prize%20·%20₹75,000-QNu%20Labs%20SparQ%20Internship%202026-FFD700?style=for-the-badge&labelColor=1a1a1a"/>
+</p>
+<p align="center">
+  <b>🏆 Ranked #1 among ALL interns at QNu Labs · Project selected for production · Certificate of Excellence</b>
 </p>
 
 ---
@@ -25,11 +32,12 @@
 
 <table align="center" width="100%">
 <tr>
+<td align="center"><b>🥇 ₹75,000</b><br/><sub>1st Prize · QNu Labs SparQ 2026</sub></td>
 <td align="center"><b>1,950+</b><br/><sub>GitHub Commits</sub></td>
 <td align="center"><b>🏆 Top 1%</b><br/><sub>Amazon ML · 183K+ participants</sub></td>
 <td align="center"><b>70K+</b><br/><sub>Organic YouTube Views</sub></td>
 <td align="center"><b>600+</b><br/><sub>Shorts Auto-Published</sub></td>
-<td align="center"><b>140+</b><br/><sub>Affiliate Clicks · 0 Paid Ads</sub></td>
+<td align="center"><b>1 Paying</b><br/><sub>Customer (Maldives) · ₹299</sub></td>
 <td align="center"><b>4</b><br/><sub>Production Systems Live</sub></td>
 </tr>
 </table>
@@ -44,13 +52,14 @@
 ```python
 aryan_patel = {
   "🎭  roles"        : ["MLOps Engineer", "AI/ML Developer", "GenAI Engineer", "Full-Stack Dev", "Solo Founder"],
-  "🚀  startup"      : "VelocityFly AI  -  70K+ views · 600+ auto-published posts · 140+ affiliate clicks · 0 paid ads",
+  "🥇  highlight"    : "1st Prize ₹75,000 @ QNu Labs SparQ Internship 2026  -  Rank #1 among all interns · project selected for production",
+  "🚀  startup"      : "VelocityFly AI  -  70K+ views · 600+ auto-published posts · 140+ affiliate clicks · 1 paying customer (Maldives) · 0 paid ads",
   "🔥  building"     : ["EKS + K8s deployments", "Prometheus + Grafana stacks", "Advanced RAG & Multi-Agent AI"],
   "⚙️  mlops_stack"  : ["DVC", "MLflow", "DagsHub", "Docker", "Kubernetes", "EKS", "ECR", "GitHub Actions"],
   "🧠  ai_stack"     : ["Scikit-learn", "TensorFlow", "LangChain", "ChromaDB", "Groq", "CrewAI", "LangGraph"],
   "☁️  cloud"        : ["AWS S3", "EC2", "ECR", "EKS", "IAM", "CloudFormation", "LoadBalancer"],
   "📡  monitoring"   : ["Prometheus", "Grafana", "Flask Metrics", "Custom Dashboards", "EC2 Observability"],
-  "🏆  achievements" : ["Top 1% Amazon ML Challenge (183K+)", "Bajaj HackRx Rank 88", "Nextwave GenAI Team Lead"],
+  "🏆  achievements" : ["1st Prize ₹75K QNu Labs SparQ 2026", "Top 1% Amazon ML Challenge (183K+)", "Bajaj HackRx Rank 88", "Nextwave GenAI Team Lead"],
   "⚡  fun_fact"     : "I break things fast so I can build them better  -  every failed experiment becomes a repo 😉"
 }
 ```
@@ -149,8 +158,11 @@ Hallucination Reduction
 
 ## 💼 Experience & Work History
 
-### 🔬 AI/ML Intern  -  AI Autopilot · QNu Labs *(May 2026 – Present · Remote)*
+### 🔬 AI/ML Intern  -  AI Autopilot · QNu Labs *(May 2026 – Aug 2026 · 3 Months · Remote)*
 > **Quantum Cybersecurity vendor for Indian Army & Navy · Bengaluru**
+
+> ### 🥇 **1st Prize Winner · ₹75,000 · QNu Labs SparQ Internship Program 2026**
+> **Ranked #1 among ALL interns** · Project **selected for production deployment** · Awarded a **Certificate of Excellence**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
@@ -159,6 +171,8 @@ Hallucination Reduction
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
+- 🥇 **Won 1st Prize (₹75,000) in the QNu Labs SparQ Internship Program 2026, ranking 1st among all interns**
+- 🚀 **Project selected for production** by QNu Labs and awarded a **Certificate of Excellence** for the 3-month internship
 - 🤖 Building AI Autopilot for live **QKDN** deployed with **Indian Army & Navy** across 3+ active network nodes  -  LLM copilot agent reducing manual provisioning by ~60% via LangChain + Ollama
 - 📊 IsolationForest anomaly detection on QBER/SKR quantum key distribution network streams with automated alerting
 - 📄 Automated PDF reporting pipeline with FastAPI + React dashboard for real-time network analytics
@@ -195,22 +209,28 @@ Hallucination Reduction
 
 <table width="100%">
 <tr>
-<td align="center" width="20%"><b>600+</b><br/><sub>Posts Auto-Published</sub></td>
-<td align="center" width="20%"><b>140+</b><br/><sub>Affiliate Clicks · 0 Ads</sub></td>
-<td align="center" width="20%"><b>10+</b><br/><sub>Live Users</sub></td>
-<td align="center" width="20%"><b>4/6</b><br/><sub>Platforms Live</sub></td>
-<td align="center" width="20%"><b>70K+</b><br/><sub>Organic Views</sub></td>
+<td align="center" width="16%"><b>600+</b><br/><sub>Posts Auto-Published</sub></td>
+<td align="center" width="16%"><b>140+</b><br/><sub>Affiliate Clicks · 0 Ads</sub></td>
+<td align="center" width="16%"><b>50+</b><br/><sub>Signups</sub></td>
+<td align="center" width="16%"><b>10+</b><br/><sub>Live Users</sub></td>
+<td align="center" width="16%"><b>1 Paying</b><br/><sub>Customer · Maldives 🇲🇻 · ₹299</sub></td>
+<td align="center" width="16%"><b>70K+</b><br/><sub>Organic Views</sub></td>
 </tr>
 </table>
 
-### 🏅 Accepted into 4 Startup Programs
+> 💰 **Paid user from the Maldives** on the Pro plan (**₹299**)  -  real revenue, validated through the deployed SaaS, integrated social media APIs, and affiliate workflows.
+
+### 🏅 Accepted into Multiple Startup Programs
 
 | Program | Recognition |
 |---|---|
 | ![Anthropic](https://img.shields.io/badge/Claude%20for%20Startups-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white) | Selected into Anthropic's startup program |
-| ![OpenAI](https://img.shields.io/badge/OpenAI%20Startup%20Community-000000?style=for-the-badge&logo=openai&logoColor=white) | Welcomed into OpenAI's startup community |
+| ![Sarvam AI](https://img.shields.io/badge/Sarvam%20AI-Startup%20Program-FF6B35?style=for-the-badge) | Accepted into Sarvam AI's startup program |
 | ![MongoDB](https://img.shields.io/badge/MongoDB%20for%20Startups-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | Accelerator partner  -  credits & support |
 | ![Zendesk](https://img.shields.io/badge/Zendesk%20Startup%20Program-03363D?style=for-the-badge&logo=zendesk&logoColor=white) | Approved  -  6 months free Zendesk |
+| ![Neo4j](https://img.shields.io/badge/Neo4j%20for%20Startups-018BFF?style=for-the-badge&logo=neo4j&logoColor=white) | Accepted into Neo4j's startup program |
+| ![AltaLab](https://img.shields.io/badge/AltaLab-by%20AltaIR%20Capital-1E3A8A?style=for-the-badge) | Accepted into AltaLab by AltaIR Capital |
+| ![OpenAI](https://img.shields.io/badge/OpenAI%20Startup%20Community-000000?style=for-the-badge&logo=openai&logoColor=white) | Welcomed into OpenAI's startup community |
 
 **🚀 Post Once. Publish Everywhere. Earn Forever.**
 
@@ -390,11 +410,12 @@ RAW TEXT DATA ──► DVC Pipeline (dvc repro) ──► MLflow: params / metr
 
 | | Achievement | Detail |
 |---|---|---|
+| 🥇 | **1st Prize ₹75,000  -  QNu Labs SparQ Internship Program 2026** | Ranked **#1 among all interns** · Project **selected for production** · Certificate of Excellence |
 | 🏆 | **Amazon ML Challenge 2025  -  Top 1%** | Top 1% among **183,000+** participants · Multimodal ML product attribute extraction |
 | 🥇 | **Bajaj HackRx 2025  -  Rank 88** | National GenAI Hackathon · Production RAG system · Score: 694 |
 | ⚡ | **Nextwave GenAI Hackathon  -  Team Lead** | 48-hour GenAI Hackathon, Noida · Built FloatChat AI over 50TB+ ARGO datasets |
 | 💻 | **1,650+ GitHub Commits** | Sustained engineering across ML, MLOps, Full-Stack, GenAI over 12 months |
-| 🚀 | **Solo Founder  -  VelocityFly AI** | 70K+ views · 600+ auto-published posts · 140+ affiliate clicks · 0 paid ads · live on 4 platforms |
+| 🚀 | **Solo Founder  -  VelocityFly AI** | 70K+ views · 600+ auto-published posts · 140+ affiliate clicks · 1 paying customer (Maldives, ₹299) · 0 paid ads · live on 4 platforms · accepted into multiple startup programs |
 | 🔬 | **2 Research & AI Internships** | QNu Labs (Indian Army/Navy QKDN) · IIIT Nagpur (Geospatial AI for NHAI) |
 | 📐 | **SINE IIT Bombay Incubation** | Active application  -  SINE/INCU/2026/06/00044 |
 
@@ -493,7 +514,16 @@ RAW TEXT DATA ──► DVC Pipeline (dvc repro) ──► MLflow: params / metr
 
 <table align="center" width="100%">
 <tr>
-<td align="center" width="33%" valign="top">
+<td align="center" width="25%" valign="top">
+
+### 🥇 Certificate of Excellence
+**QNu Labs · SparQ Internship 2026**
+
+🏫 QNu Labs
+🏆 1st Prize · Rank #1 among all interns
+
+</td>
+<td align="center" width="25%" valign="top">
 
 ### Complete Generative AI Course
 **With LangChain & HuggingFace**
@@ -504,7 +534,7 @@ RAW TEXT DATA ──► DVC Pipeline (dvc repro) ──► MLflow: params / metr
 [![View Certificate](https://img.shields.io/badge/View%20Certificate-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-1c29da31-bec9-4bb6-9b42-9a8fa2275edb/)
 
 </td>
-<td align="center" width="33%" valign="top">
+<td align="center" width="25%" valign="top">
 
 ### Complete DS · ML · DL · NLP Bootcamp
 **End-to-End Machine Learning**
@@ -515,7 +545,7 @@ RAW TEXT DATA ──► DVC Pipeline (dvc repro) ──► MLflow: params / metr
 [![View Certificate](https://img.shields.io/badge/View%20Certificate-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-444c073c-100e-4638-afd5-27743417fdda/)
 
 </td>
-<td align="center" width="33%" valign="top">
+<td align="center" width="25%" valign="top">
 
 ### Data Analysis with Python
 **IBM Developer Skills Network**
