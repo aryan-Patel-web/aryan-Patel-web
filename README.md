@@ -46,9 +46,23 @@
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aryan-Patel-web&theme=vue&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-patel-web&show_icons=true&theme=vue&hide_border=true&locale=en" alt="GitHub Stats" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=aryan-Patel-web&theme=vue&hide_border=true&v=3" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-Patel-web&show_icons=true&theme=vue&hide_border=true&locale=en&include_all_commits=true&count_private=true&v=3" alt="GitHub Stats" width="49%"/>
 </p>
+
+<!-- Backup layer: different providers, so something always renders even if the cards above fail -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/10B981/aryan-Patel-web" alt="GitHub Contribution Chart" width="98%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryan-Patel-web&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="98%"/>
+</p>
+
+<!-- OPTIONAL (enable after the metrics workflow has run once and created github-metrics.svg in this repo):
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics (static, always loads)" width="98%"/>
+</p>
+-->
 
 ---
 
@@ -587,7 +601,7 @@ RAW TEXT DATA ──► DVC Pipeline (dvc repro) ──► MLflow: params / metr
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-Patel-web&layout=compact&theme=vue&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-Patel-web&layout=compact&theme=vue&hide_border=true&langs_count=10&v=3" alt="Top Languages" width="49%"/>
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-Patel-web&theme=vue&radius=10" alt="Activity Graph"/>
