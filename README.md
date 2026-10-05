@@ -50,13 +50,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aryan-Patel-web&show_icons=true&theme=vue&hide_border=true&locale=en&include_all_commits=true&count_private=true&v=3" alt="GitHub Stats" width="49%"/>
 </p>
 
-<!-- Backup layer: different providers, so something always renders even if the cards above fail -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/10B981/aryan-Patel-web" alt="GitHub Contribution Chart" width="98%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryan-Patel-web&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="98%"/>
-</p>
+<!-- Written summary: plain text, so it always renders even if the cards above fail -->
+<div align="center">
+
+### 📈 GitHub Snapshot *(as of 6 Oct 2026)*
+
+| Metric | Value |
+|---|---|
+| 🔥 **Current streak** | **68 days** · 30 Jul 2026 → 5 Oct 2026 (ongoing) |
+| 🏅 **Longest streak** | **68 days** · 30 Jul 2026 → 5 Oct 2026 |
+| 🥈 **Previous best streaks** | 36 days (7 Jan → 11 Feb 2026) · 23 days (14 Mar → 5 Apr 2026) |
+| 📅 **Contributions, last 12 months** | **1,856** across **262 active days** |
+| ⚡ **Best single day** | **40 contributions** · 26 Jun 2026 |
+| ⭐ **Total stars earned** | **425** |
+| 🔀 **Pull requests · Issues** | 4 · 2 |
+
+</div>
 
 <!-- OPTIONAL (enable after the metrics workflow has run once and created github-metrics.svg in this repo):
 <p align="center">
