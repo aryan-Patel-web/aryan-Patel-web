@@ -291,6 +291,7 @@ Hallucination Reduction
 
 **Two Complete User Flows:**
 
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
