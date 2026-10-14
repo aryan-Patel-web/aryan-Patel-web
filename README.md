@@ -261,6 +261,7 @@ Hallucination Reduction
 
 **🔑 Core Capabilities:**
 
+
 | Capability | What It Does |
 |---|---|
 | 🔗 **Multi-Platform Publish** | One upload auto-adapted & published to YouTube, Instagram, Facebook & LinkedIn simultaneously |
