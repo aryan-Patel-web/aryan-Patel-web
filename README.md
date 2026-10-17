@@ -22,6 +22,7 @@
 
 ---
 
+
 <p align="center">
   <a href="https://drive.google.com/file/d/1ocWpj72HOww0lYxlxYlHen-PoJRlTQ_r/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/RESUME-Aryan_Patel-10B981?style=for-the-badge&logo=googledrive&logoColor=white"/>
